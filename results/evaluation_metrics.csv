@@ -1,0 +1,4 @@
+name,AP,P@10,nDCG@10
+BM25,0.36526444665761687,0.33999999999999997,0.4689517113668133
+"(TerrierRetr(BM25) >> QueryExpansion(C:\Users\yashw\biomedical-ir-assistant\index_dir/data.properties,3,10,<org.terrier.querying.RM3 at 0x25c22c7fef0 jclass=org/terrier/querying/RM3 jself=<LocalRef obj=0x22270858 at 0x25c22b0f9b0>>) >> TerrierRetr(BM25))",0.41412829684737973,0.42000000000000004,0.5309798651318692
+MeSH,0.5588141240994657,0.48,0.6556620006526054

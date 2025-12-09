@@ -1,0 +1,552 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="cl21117" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Campbell Syst Rev</journal-id><journal-id journal-id-type="iso-abbrev">Campbell Syst Rev</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1891-1803</journal-id><journal-id journal-id-type="publisher-id">CL2</journal-id><journal-title-group><journal-title>Campbell Systematic Reviews</journal-title></journal-title-group><issn pub-type="epub">1891-1803</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">37016608</article-id><article-id pub-id-type="pmc">PMC8356284</article-id>
+<article-id pub-id-type="doi">10.1002/cl2.1117</article-id><article-id pub-id-type="publisher-id">CL21117</article-id><article-categories><subj-group subj-group-type="overline"><subject>Protocols</subject></subj-group><subj-group subj-group-type="heading"><subject>Protocols</subject><subj-group subj-group-type="heading"><subject>Social Welfare</subject></subj-group></subj-group></article-categories><title-group><article-title>PROTOCOL: Recreational book reading for promoting cognitive functioning and emotional well&#x02010;being in older adults: A systematic review</article-title><alt-title alt-title-type="left-running-head">LAERMANS <sc>et al.</sc>
+</alt-title></title-group><contrib-group><contrib id="cl21117-cr-0001" contrib-type="author" corresp="yes"><name><surname>Laermans</surname><given-names>Jorien</given-names></name><xref rid="cl21117-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>Jorien.Laermans@rodekruis.be</email></address></contrib><contrib id="cl21117-cr-0002" contrib-type="author"><name><surname>Scheers</surname><given-names>Hans</given-names></name><xref rid="cl21117-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cl21117-cr-0003" contrib-type="author"><name><surname>Vandekerckhove</surname><given-names>Philippe</given-names></name><xref rid="cl21117-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="cl21117-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="cl21117-cr-0004" contrib-type="author"><name><surname>De Buck</surname><given-names>Emmy</given-names></name><xref rid="cl21117-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="cl21117-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib></contrib-group><aff id="cl21117-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<institution>Centre for Evidence&#x02010;Based Practice, Belgian Red Cross</institution>
+<city>Mechelen</city>
+<country country="BE">Belgium</country>
+</aff><aff id="cl21117-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>Belgian Red Cross</institution>
+<city>Mechelen</city>
+<country country="BE">Belgium</country>
+</aff><aff id="cl21117-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Public Health and Primary Care</named-content>
+<institution>Faculty of Medicine, KU Leuven</institution>
+<city>Leuven</city>
+<country country="BE">Belgium</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold> Jorien Laermans, Centre for Evidence&#x02010;Based Practice, Belgian Red Cross, Motstraat 42, 2800 Mechelen, Belgium.<break/>
+Email: <email>Jorien.Laermans@rodekruis.be</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>06</day><month>10</month><year>2020</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2020</year></pub-date><volume>16</volume><issue seq="50">4</issue><issue-id pub-id-type="doi">10.1002/cl2.v16.4</issue-id><elocation-id>e1117</elocation-id><permissions><!--&#x000a9; 2020 Wiley Periodicals LLC--><copyright-statement content-type="article-copyright">&#x000a9; 2020 The Authors. <italic toggle="yes">Campbell Systematic Reviews</italic> published by John Wiley &#x00026; Sons Ltd on behalf of The Campbell Collaboration</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the 
+<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:CL2-16-e1117.pdf"/><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>Foundation for Scientific Research of the Belgian Red Cross</institution></institution-wrap>
+</funding-source></award-group></funding-group><counts><fig-count count="0"/><table-count count="0"/><page-count count="10"/><word-count count="6947"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.4 mode:remove_FC converted:30.09.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="cl21117-cit-0050">
+<string-name>
+<surname>Laermans</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Scheers</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Vandekerckhove</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>De Buck</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>PROTOCOL: Recreational book reading for promoting cognitive functioning and emotional well&#x02010;being in older adults: A systematic review</article-title>. <source>Campbell Systematic Reviews</source>. <year>2020</year>;<volume>16</volume>:<elocation-id>e1117</elocation-id>. <pub-id pub-id-type="doi">10.1002/cl2.1117</pub-id>
+<pub-id pub-id-type="pmid">37016608</pub-id>
+</mixed-citation>
+</p></notes></front><body><sec sec-type="background" id="cl21117-sec-0010"><label>1</label><title>BACKGROUND</title><sec id="cl21117-sec-0020"><label>1.1</label><title>Description of the condition</title><p>The world's population is growing older. According to a 2015 United Nations report (United Nations, Department of Economic and Social Affairs, &#x00026; Population Division,&#x000a0;<xref rid="cl21117-bib-0048" ref-type="bibr">2015</xref>), the number of people aged 60 years or over is estimated to grow from 900 million (12.3%) in 2015 to 1.4 billion (16.5%) in 2030. This global ageing phenomenon challenges researchers and policy&#x02010;makers to investigate the factors that can promote healthy ageing, in order to alleviate the corresponding increasing socioeconomic costs. Indeed, although greater longevity comes with benefits for individuals (e.g., prolonged working life, chances for second careers), families (e.g., financial support, participation in caring for children) and society (e.g., sharing wisdom and experience, contributing to the labour force), population ageing and growth in the number of persons at very advanced ages not only creates concern about poverty rates and fiscal sustainability of pension systems, but also puts pressure on health systems (United Nations, Department of Economic and Social Affairs, &#x00026; Population Division,&#x000a0;<xref rid="cl21117-bib-0048" ref-type="bibr">2015</xref>).</p><p>There is consistent evidence that physical activity is positively associated with healthy ageing (Daskalopoulou et al.,&#x000a0;<xref rid="cl21117-bib-0010" ref-type="bibr">2017</xref>). Similarly, social activities (e.g., meeting friends, volunteering, participating in social clubs, making day trips) seem to have beneficial effects, for instance on longevity (Glass, Mendes de Leon, Marottoli, &#x00026; Berkman,&#x000a0;<xref rid="cl21117-bib-0019" ref-type="bibr">1999</xref>) and cognitive functioning in older adults (Kelly et al.,&#x000a0;<xref rid="cl21117-bib-0025" ref-type="bibr">2017</xref>). However, the effects of leisure activities that are devoid of physical and extensive social engagement, such as book reading, remain unclear.</p></sec><sec id="cl21117-sec-0030"><label>1.2</label><title>Description of the intervention</title><p>The intervention of interest in this review is paper (hard copy) book reading, e&#x02010;book reading or audiobook listening as a leisure activity (&#x0201c;reading for pleasure&#x0201d; or &#x0201c;recreational reading&#x0201d;). These interventions include lone reading, as well as reading aloud in a one&#x02010;on&#x02010;one setting, and being read to in a one&#x02010;on&#x02010;one setting. These common leisure activities may promote two aspects of healthy ageing, that is, cognitive functioning and emotional well&#x02010;being, by providing cognitive stimulation and by helping to relax and take one's mind off the worries of everyday life, respectively.</p></sec><sec id="cl21117-sec-0040"><label>1.3</label><title>How the intervention might work</title><p>Reading is a multifaceted cognitive process that allows us to derive meaning from print. This is accomplished by integrating word recognition, comprehension and fluency. Similarly, the cognitive process of listening enables us to derive meaning from speech or other sounds. Although the exact neuroscientific pathways remain to be elucidated, it is clear that for the human brain, reading and listening to narrated stories entails a widespread</p><p>activation of numerous cortical areas (Buchweitz, Mason, Tomitch, &#x00026; Just,&#x000a0;<xref rid="cl21117-bib-0006" ref-type="bibr">2009</xref>; Dehghani et al.,&#x000a0;<xref rid="cl21117-bib-0012" ref-type="bibr">2017</xref>; Willems,&#x000a0;<xref rid="cl21117-bib-0049" ref-type="bibr">2015</xref>). Books have been shown to promote &#x0201c;deep reading&#x0201d;, a slow immersive process of thoughtful and deliberate reading which is different from superficial reading (Birkerts,&#x000a0;<xref rid="cl21117-bib-0005" ref-type="bibr">1994</xref>). Deep reading not only enhances comprehension and enjoyment of a text, but also promotes inferential and deductive reasoning, analogical skills, critical analysis, reflection and insight. This may explain why book reading leads to improvements in vocabulary, reasoning, concentration, and critical thinking skills (Cunningham &#x00026; Stanovich,&#x000a0;<xref rid="cl21117-bib-0009" ref-type="bibr">1998</xref>; Stanovich, West, &#x00026; Harrison,&#x000a0;<xref rid="cl21117-bib-0043" ref-type="bibr">1995</xref>). In addition, reading has been shown to improve the development of empathy, social perception and emotional intelligence (Djikic, Oatley, &#x00026; Moldoveanu,&#x000a0;<xref rid="cl21117-bib-0013" ref-type="bibr">2013</xref>; Kidd &#x00026; Castano, <xref rid="cl21117-bib-0026" ref-type="bibr">2013</xref>). There are a number of theories that could explain the beneficial effects of book reading or listening on cognition. First of all, they are hypothesized to promote healthy aging by improving cognitive reserves. The cognitive reserve theory states that &#x0201c;innate intelligence as well as aspects of life experience may supply a reserve in the form of a set of skills or repertoires allowing some people to cope with progressing dementia pathology better than others&#x0201d; (Scarmeas &#x00026; Stern,&#x000a0;<xref rid="cl21117-bib-0040" ref-type="bibr">2003</xref>; Y. Stern,&#x000a0;<xref rid="cl21117-bib-0045" ref-type="bibr">2012</xref>). It is thought that complex and stimulating experiences, such as book reading, may enhance neuronal structure and brain function by creating more efficient cognitive networks, thereby providing a protective effect against neurodegeneration or cognitive decline. A second theory, the &#x0201c;use it or lose it&#x0201d; hypothesis, suggests that a lack of stimulation in everyday life can lead to faster deterioration in cognitive function (Hultsch, Hertzog, Small, &#x00026; Dixon,&#x000a0;<xref rid="cl21117-bib-0022" ref-type="bibr">1999</xref>). Both theories agree on the fact that active involvement in brain&#x02010;stimulating activities may play a role in preserving cognition or slowing down cognitive decline in old age. As cognitive decline is associated with a lack of functional independence and lower quality of life, it seems plausible that building cognitive reserve through reading or listening may safeguard the emotional well&#x02010;being of older adults as well.</p><p>In addition, reading may contribute even further to the emotional well&#x02010;being of older adults through its relaxational properties. In a survey of over 4,000 people from a representative sample in the United Kingdom, regular recreational readers reported fewer feelings of stress and depression compared to nonreaders (Quick Reads &#x00026; Billington,&#x000a0;<xref rid="cl21117-bib-0036" ref-type="bibr">2015</xref>). Interestingly, reading was found to induce stronger feelings of relaxation compared to watching television or engaging with technology&#x02010;intensive activities. In addition, the study revealed that regular recreational readers had higher levels of self&#x02010;esteem and a greater ability to cope with difficult situations.</p><p>The beneficial effects of book reading on cognitive engagement and stress level reduction may, in the longer term, even contribute to longevity. A U.S. population&#x02010;based cohort study demonstrated that after control for multiple sociodemographic and health&#x02010;related covariates, both severe and mild cognitive impairment were strongly predictive of subsequent mortality among older adults aged less than 80 years (Bassuk, Wypij, &#x00026; Berkman,&#x000a0;<xref rid="cl21117-bib-0002" ref-type="bibr">2000</xref>). Similarly, in a U.K. survey, poorer cognitive performance was associated with an increased risk of mortality from cardiovascular disease, stroke and respiratory disease in those aged over 60 years (Shipley, Der, Taylor, &#x00026; Deary,&#x000a0;<xref rid="cl21117-bib-0042" ref-type="bibr">2008</xref>). In the latter study, the possibility of reverse causality was partly excluded by reanalysing the data after omitting individuals who died within 5 years of cognitive testing. Stress represents an imminent risk factor with a documented negative impact on the immune and cardiovascular system. A large Danish population&#x02010;based cohort of 118,410 participants demonstrated that mortality rates rose with increasing levels of stress in a dose&#x02010;response relationship, independently of multimorbidity status (Prior et al.,&#x000a0;<xref rid="cl21117-bib-0035" ref-type="bibr">2016</xref>).</p><p>An example of a relevant experimental study that would allow us to ascertain the adequacy of these theories might randomly assign older adults to either a reading group (e.g., where people would be provided with a book each month by their local community library) or a nonreading group (where people would be asked not to read books for the period of study duration) and follow up on their cognition and emotional well&#x02010;being at multiple timepoints. Alternatively, a relevant observational study might for example prospectively follow a cohort of older adults and assess the association between reading habits (frequency, duration etc) and cognitive decline, emotional well&#x02010;being and/or mortality, while correcting its analyses for multiple potential demographic, socioeconomic and health&#x02010;related confounders.</p></sec><sec id="cl21117-sec-0050"><label>1.4</label><title>Why it is important to do this review</title><p>In 2010, a Johanna Briggs Institute systematic review was published on the effectiveness of cognitive leisure activities, including reading, watching movies, playing board games and playing musical instruments, in preventing Alzheimer's and other dementias in older adults (C. Stern &#x00026; Munn,&#x000a0;<xref rid="cl21117-bib-0044" ref-type="bibr">2010</xref>). Out of the seven included observational studies, six revealed a positive association between participating in cognitive leisure activities in late life (+65 years) and a reduced risk of developing Alzheimer's and other dementia types. Moreover, the results showed that some individual leisure activities, such as reading, may be more effective than others.</p><p>A more recent literature review commissioned by The Reading Agency, aiming to collate and summarize research findings relating to nonliteracy outcomes of recreational reading, further linked recreational reading to changes in stress levels and relaxation, health literacy, and improvements in depression and dementia symptoms (The Reading Agency,&#x000a0;<xref rid="cl21117-bib-0047" ref-type="bibr">2015</xref>).</p><p>As these existing reviews have highlighted the potential beneficial effects of reading on Alzheimer's and other types of dementia only (C. Stern &#x00026; Munn,&#x000a0;<xref rid="cl21117-bib-0044" ref-type="bibr">2010</xref>) or did not specifically focus on the impact on older adults (The Reading Agency,&#x000a0;<xref rid="cl21117-bib-0047" ref-type="bibr">2015</xref>), a systematic collection, extraction and analysis of quantitative data on the effectiveness of book reading on cognitive functioning and emotional well&#x02010;being of older adults is warranted.</p><p>Preparing for the economic and social shifts associated with an ageing population is an essential task for the 21st century policy&#x02010;maker. Governments should look into innovative but sustainable ways to promote healthy ageing. Reviews that study the effects of common and low&#x02010;threshold leisure activities, such as book reading, on the cognition and emotional well&#x02010;being of older adults, may provide useful information in creating these frameworks. In this way, policy&#x02010;makers can make evidence&#x02010;based decisions on where to focus their efforts in dealing with global ageing.</p></sec></sec><sec sec-type="objectives" id="cl21117-sec-0060"><label>2</label><title>OBJECTIVES</title><p>By systematically searching for individual studies, this review will answer the following research question:</p><p>What is the effect of book reading on cognitive functioning and emotional well&#x02010;being in older adults?</p></sec><sec sec-type="methods" id="cl21117-sec-0070"><label>3</label><title>METHODS</title><sec id="cl21117-sec-0080"><label>3.1</label><title>Criteria for considering studies for this review</title><sec id="cl21117-sec-0090"><label>3.1.1</label><title>Types of studies</title><p>Since we will apply quite specific criteria at the level of population and intervention, we will include a broad range of study designs to ensure that the systematic review is as inclusive as possible.</p><p>Studies using an experimental design (randomized controlled trials, quasi&#x02010; or nonrandomized controlled trials, controlled before and after study or controlled interrupted time series) will be included. In addition, we will also include studies using an observational design (cohort study, case&#x02010;control study, controlled before and after study, controlled interrupted time series, cross&#x02010;sectional study), as we anticipate that they will provide the majority of the available evidence. Observational studies will be included regardless of the fact if they adequality controlled their analyses for potential confounding factors (e.g., early&#x02010;life participation in reading activities, degree of book availability due to socio&#x02010;economic status). However, the impact of this decision will be further investigated during Data collection and analysis (see below).</p><p>Other study designs such as case series, narrative reviews and nonoriginal studies such as editorials, book reviews, commentaries, and letters to the editor, will be excluded.</p><p>In addition, qualitative studies will not be included in this review.</p></sec><sec id="cl21117-sec-0100"><label>3.1.2</label><title>Types of participants</title><p>Studies in community&#x02010;dwelling and institutionalized older adults (&#x02265;60 years of age) will be included. In this systematic review, the term &#x0201c;community&#x02010;dwelling&#x0201d; refers to individuals who live in a private residence (e.g., their own house or apartment, the house or apartment of one of their family members). &#x0201c;Institutionalized&#x0201d; refers to individuals residing in a nursing home or another assisted living facility.</p><p>Studies that also include younger adults (&#x0003c;60 years of age) will only be included if: (a) they report the results separately for &#x02265; 60&#x02010;year&#x02010;olds, or (b) they specifically define the population as &#x0201c;older adults&#x0201d; or &#x0201c;elderly&#x0201d; and the average age of the study participants is or exceeds the age of 60.</p><p>This review will include studies in older adults with normal or mildly impaired cognition at baseline, as determined using the Mini&#x02010;Mental State Examination (MMSE; Folstein, Folstein, &#x00026; McHugh,&#x000a0;<xref rid="cl21117-bib-0017" ref-type="bibr">1975</xref>), the standard version of the Mini&#x02010;Mental State Examination Second Edition (MMSE&#x02010;2:SV; Folstein, Folstein, White, &#x00026; Messer,&#x000a0;<xref rid="cl21117-bib-0018" ref-type="bibr">2010</xref>) or the Montreal Cognitive Assessment (MoCA; Nasreddine et al.,&#x000a0;<xref rid="cl21117-bib-0031" ref-type="bibr">2005</xref>):
+<list list-type="bullet"><list-item><p>Normal cognition: scoring &#x02265;25 in the MMSE/MMSE&#x02010;2:SV or &#x02265;25 in the MoCA;</p></list-item><list-item><p>Mildly impaired cognition: scoring 21&#x02010;24 in the MMSE/MMSE&#x02010;2:SV or 18&#x02010;25 in the MoCA, including patients suffering from:</p><list list-type="simple"><list-item><label>&#x0ffee;</label><p>Mild cognitive impairment (MCI), who still function independently or nearly so in their daily lives in a manner that is indistinguishable from the past (Petersen et al.,&#x000a0;<xref rid="cl21117-bib-0034" ref-type="bibr">1997</xref>).</p></list-item><list-item><label>&#x0ffee;</label><p>Mild dementia, who experience significant difficulties in daily life that interfere with independence. In contrast to more severe forms of dementia where basic activities of daily living are compromised, patients with mild dementia retain independence in simpler activities (Knopman &#x00026; Petersen,&#x000a0;<xref rid="cl21117-bib-0027" ref-type="bibr">2014</xref>).</p></list-item></list></list-item></list>
+</p><p>Studies that do not mention cognition levels of the participants will be included, as we assume they will have recruited &#x0201c;normal, healthy&#x0201d; older adults. Studies that include mixed populations consisting of older adults with normal cognition &#x000e1;nd older adults with mildly impaired cognition will be included. Studies that also include older adults with moderate or severe cognitive impairment (scoring&#x02009;&#x0003c;&#x02009;21 in the MMSE or &#x0003c;18 in the MoCA) will be excluded from the review, unless they report the results separately for the participants with normal cognition and/or mildly impaired cognition.</p></sec><sec id="cl21117-sec-0110"><label>3.1.3</label><title>Types of interventions</title><p>Interventions for this systematic review will include any frequency and any duration of lone recreational paper (hard copy) book reading, e&#x02010;book reading or audiobook listening. In addition, interventions where an older adult reads aloud to another adult or child, or where an older adult isbeing read toby another adult or child, will also be included. Interventions that are accompanied by extensive social interaction or engagement, such as book reading clubs and group reading, will be excluded.</p><p>As books are considered to engage readers&#x02019; minds more than newspapers, periodicals and magazines, the latter three reading materials will be excluded from the review. In addition, studies looking at the combined effects of reading books and reading periodicals/magazines/newspapers will be excluded. Studies that do not specify the type of reading materials will also be excluded. In addition, interventions where book reading is offered as a therapeutic treatment (i.e., bibliotherapy) will be excluded.</p><p>Within experimental studies, the effect of book reading will be compared to no paper or e&#x02010;book reading, or no audiobook listening. For observational studies, the outcomes (see below) of older adults who read paper books, read e&#x02010;books or listen to audiobooks, will be compared to those of older adults who did not participate in these activities.</p></sec><sec id="cl21117-sec-0120"><label>3.1.4</label><title>Types of outcome measures</title><p>Studies will be included if they have measured the effect of book reading on one or more of the following primary or secondary outcomes.</p><p>Studies will not be excluded solely on the basis of reporting of outcome data. To this end, we will contact the authors to ascertain whether the data for our outcomes of interest are unavailable due to lack of measurement or lack of reporting.</p><sec id="cl21117-sec-0130"><label>3.1.4.1</label><title>Primary outcomes</title><p>The primary outcomes of interest are cognitive functioning and emotional well&#x02010;being.</p><p>Studies that have measured (a decline in) cognitive functioning will be included, regardless of the measurement instrument used. Measuring instruments include, but are not limited to:
+<list list-type="bullet"><list-item><p>The Mini&#x02010;Mental State Examination (MMSE);</p></list-item><list-item><p>The standard version of the Mini&#x02010;Mental State Examination Second Edition (MMSE&#x02010;2:SV);</p></list-item><list-item><p>Montreal Cognitive Assessment (MoCA).</p></list-item></list>
+</p><p>Studies that have measured clinician&#x02010;rated and self&#x02010;reported mood and notions of emotional well&#x02010;being (e.g., life satisfaction, quality of life, anxiety, subjective happiness, depressive symptom experiencing) will also be included. Measuring instruments include, but are not limited to:
+<list list-type="bullet"><list-item><p>The Psychological Wellbeing Scale (Ryff,&#x000a0;<xref rid="cl21117-bib-0038" ref-type="bibr">1989</xref>) or its shortened version (Ryff &#x00026; Keyes,&#x000a0;<xref rid="cl21117-bib-0039" ref-type="bibr">1995</xref>);</p></list-item><list-item><p>The 22&#x02010;item General Well&#x02010;being Schedule (Dupuy,&#x000a0;<xref rid="cl21117-bib-0014" ref-type="bibr">1977</xref>);</p></list-item><list-item><p>The Life Satisfaction Index A (LSIA; Neugarten, Havighurts, &#x00026; Tobin,&#x000a0;<xref rid="cl21117-bib-0032" ref-type="bibr">1961</xref>);</p></list-item><list-item><p>The CASP&#x02010;19 Quality of Life Scale (Hyde, Wiggins, Higgs, &#x00026; Blane,&#x000a0;<xref rid="cl21117-bib-0023" ref-type="bibr">2003</xref>);</p></list-item><list-item><p>The EuroQol 5 Dimensions scales ((EQ&#x02010;5D); EuroQol Group,&#x000a0;<xref rid="cl21117-bib-0016" ref-type="bibr">1990</xref>);</p></list-item><list-item><p>The Mood and Anxiety Symptom Questionnaire (MASQ; Clark and Watson,&#x000a0;<xref rid="cl21117-bib-0007" ref-type="bibr">1991</xref>);</p></list-item><list-item><p>The 21&#x02010;item Beck Depression Inventory (BDI; Beck, Ward, Mendelson, Mock, &#x00026; Erbaugh,&#x000a0;<xref rid="cl21117-bib-0004" ref-type="bibr">1961</xref>) or its shortened 13&#x02010;item version (Beck and Beck,&#x000a0;<xref rid="cl21117-bib-0003" ref-type="bibr">1972</xref>).</p></list-item></list>
+</p><p>This systematic review will be comprehensive regarding the timing of these measurements. In other words, we will include:
+<list list-type="bullet"><list-item><p>Studies that have assessed an outcome once during the post&#x02010;intervention period (immediately after the intervention or in the longer term).</p></list-item><list-item><p>Studies that have assessed the same outcome multiple times during the post&#x02010;intervention period (e.g., immediately after the intervention and 6 months later).</p></list-item><list-item><p>Studies that have assessed the same outcome before the start of the intervention and post&#x02010;intervention.</p></list-item></list>
+</p></sec><sec id="cl21117-sec-0140"><label>3.1.4.2</label><title>Secondary outcomes</title><p>The secondary outcome of interest is mortality/survival.</p></sec></sec></sec><sec id="cl21117-sec-0150"><label>3.2</label><title>Search methods for identification of studies</title><p>A comprehensive search for eligible published and unpublished studies and reports will be performed to reduce the risk of publication bias and identify the best available evidence. No date, location or language restrictions will be placed on the searches or included studies.</p><sec id="cl21117-sec-0160"><label>3.2.1</label><title>Electronic searches</title><sec id="cl21117-sec-0170"><label>3.2.1.1</label><title>Electronic databases</title><p>The following databases will be searched from inception to present:
+<list list-type="bullet"><list-item><p>The Cochrane Library (Cochrane Database of Systematic Reviews and Cochrane Central Register of Controlled Trials);</p></list-item><list-item><p>MEDLINE (PubMed interface);</p></list-item><list-item><p>Embase (Embase.com interface);</p></list-item><list-item><p>The Education Resources Information Center (ERIC; OVID interface);</p></list-item><list-item><p>Web of Science Core Collection.</p></list-item></list>
+</p><p>On the basis of previously published relevant papers and our selection criteria, a sensitive search strategy will be developed by JL and EDB, researcher and senior researcher at the Centre for Evidence&#x02010;Based Practice, where evidence&#x02010;based guidelines and systematic reviews are developed on a daily basis.</p><p>The strategy will be tailored to each specific database and will comprise both index terms (when relevant; e.g., MeSH terms, Emtree terms) and free text words (in title or abstract), with attention to possible synonyms, spelling variants, and correct use of truncation and proximity operators. Search filters will not be used, as they may prevent the retrieval of relevant papers.</p><p>De&#x02010;duplication of the references will be done using the EndNote reference management software (EndNote,&#x000a0;<xref rid="cl21117-bib-0015" ref-type="bibr">2013</xref>). All searches and search dates will be documented.</p><p>Below, the search strategy for MEDLINE (PubMed interface) is provided:
+<list list-type="simple"><list-item><label>1.</label><p>&#x0201c;Aged&#x0201d;[Mesh] OR aged[TIAB] OR elderly[TIAB] OR &#x0201c;Retirement&#x0201d;[Mesh] OR retirement[TIAB] OR retired[TIAB] OR pension[TIAB] OR pensioner[TIAB] OR pensioning [TIAB] OR pensioned[TIAB] OR &#x0201c;old people&#x0201d;[TIAB] OR &#x0201c;older adult&#x0201d;[TIAB] OR &#x0201c;older adults&#x0201d;[TIAB] OR &#x0201c;older people&#x0201d;[TIAB] OR &#x0201c;old age&#x0201d;[TIAB] OR &#x0201c;older age&#x0201d;[TIAB] OR &#x0201c;Geriatrics&#x0201d;[Mesh] OR geriatric[TIAB] OR geriatrics[TIAB] OR ((resident[TIAB] OR residents[TIAB]) AND (&#x0201c;retirement home&#x0201d;[TIAB] OR &#x0201c;retirement homes&#x0201d;[TIAB] OR &#x0201c;nursing home&#x0201d;[TIAB] OR &#x0201c;nursing homes&#x0201d;[TIAB]))</p></list-item><list-item><label>2.</label><p>&#x0201c;Books&#x0201d;[Mesh] OR book[TIAB] OR books[TIAB] OR audiobook[TIAB] OR audiobooks[TIAB] OR e&#x02010;book[TIAB] OR e&#x02010;books[TIAB] OR ebook[TIAB] OR ebooks[TIAB] OR &#x0201c;Leisure activities&#x0201d;[Mesh] OR leisure[TIAB] OR pleasure[TIAB] OR recreational[TIAB] OR &#x0201c;Literature&#x0201d;[Mesh] OR &#x0201c;Libraries&#x0201d;[Mesh:NoExp] OR library[TIAB] OR libraries[TIAB] OR poetry[TIAB] OR novel[TIAB] OR novels[TIAB]</p></list-item><list-item><label>3.</label><p>&#x0201c;Reading&#x0201d;[Mesh] OR read[TIAB] OR reads[TIAB] OR reading[TIAB] OR (watching[TIAB] AND (TV[TIAB] OR television[TIAB] OR movie[TIAB] OR movies[TIAB])) OR (listening[TIAB] AND (music[TIAB] OR radio[TIAB])) OR dancing[TIAB] OR gardening[TIAB] OR ((game[TIAB] OR games[TIAB]) AND (play[TIAB] OR plays[TIAB] OR playing[TIAB])) OR gaming[TIAB] OR puzzle[TIAB] OR puzzles[TIAB] OR puzzling[TIAB]</p></list-item><list-item><label>4.</label><p>1&#x02010;3 AND</p></list-item></list>
+</p></sec><sec id="cl21117-sec-0180"><label>3.2.1.2</label><title>Grey literature sources and handsearching</title><p>We will consult the following sources of grey literature, and search the websites of organizations devoted to the specific topics of reading/leisure and ageing, to identify relevant unpublished studies and reports:
+<list list-type="bullet"><list-item><p>Grey literature:</p><list list-type="bullet"><list-item><p>Grey literature repositories:</p><list list-type="simple"><list-item><label>&#x025aa;</label><p>Grey Literature Report (<ext-link xlink:href="http://www.greylit.org" ext-link-type="uri">www.greylit.org</ext-link>);</p></list-item><list-item><label>&#x025aa;</label><p>OpenGrey (<ext-link xlink:href="http://www.opengrey.eu" ext-link-type="uri">www.opengrey.eu</ext-link>);</p></list-item><list-item><label>&#x025aa;</label><p>ClinicalTrials.gov (clinicaltrials.gov);</p></list-item><list-item><label>&#x025aa;</label><p>International Clinical Trials Registry Platform of the World Health; Organization (ICTRP, apps.who.int/trialsearch/Default.aspx);</p></list-item></list></list-item><list-item><p>Other sources of grey literature:</p><list list-type="simple"><list-item><label>&#x025aa;</label><p>Google Scholar (scholar.google.com).</p></list-item></list></list-item></list></list-item><list-item><p>Reading and leisure activities:</p><list list-type="bullet"><list-item><p>EU Read (<ext-link xlink:href="http://www.euread.com/research" ext-link-type="uri">www.euread.com/research</ext-link>);</p></list-item><list-item><p>The Reading Agency UK (readingagency.org.uk/adults/impact/);</p></list-item><list-item><p>The Reader (<ext-link xlink:href="http://www.thereader.org.uk/research" ext-link-type="uri">www.thereader.org.uk/research</ext-link>);</p></list-item><list-item><p>Dutch Reading Foundation (Stichting Lezen Nederland; <ext-link xlink:href="http://www.lezen.nl" ext-link-type="uri">www.lezen.nl</ext-link>);</p></list-item><list-item><p>Hill Strategies Research Inc., &#x0201c;Statistical Insights on the Arts&#x0201d; series (<ext-link xlink:href="http://www.hillstrategies.com/" ext-link-type="uri">www.hillstrategies.com/</ext-link>);</p></list-item><list-item><p>World Health Organization (WHO; <ext-link xlink:href="http://www.who.int/en/" ext-link-type="uri">www.who.int/en/</ext-link>).</p></list-item></list></list-item><list-item><p>Ageing:</p><list list-type="bullet"><list-item><p>Age UK (<ext-link xlink:href="http://www.ageuk.org.uk/our-impact/policy-research/publications/" ext-link-type="uri">www.ageuk.org.uk/our-impact/policy-research/publications/</ext-link>);</p></list-item><list-item><p>Centre for Ageing Better (<ext-link xlink:href="http://www.ageing-better.org.uk/publications" ext-link-type="uri">www.ageing-better.org.uk/publications</ext-link>);</p></list-item><list-item><p>International Longevity Centre UK (ILCUK, ilcuk.org.uk/reports/);</p></list-item><list-item><p>WHO Ageing and life&#x02010;course Program (<ext-link xlink:href="http://www.who.int/ageing/data-research/en/" ext-link-type="uri">www.who.int/ageing/data-research/en/</ext-link>);</p></list-item><list-item><p>National Ageing Research Institute (NARI) in Victoria, Australia (<ext-link xlink:href="http://www.nari.net.au/publications/overview-about-publications" ext-link-type="uri">www.nari.net.au/publications/overview-about-publications</ext-link>).</p></list-item></list></list-item></list>
+</p><p>In compiling this list of organizations, the following criteria were applied:
+<list list-type="bullet"><list-item><p>On their websites, the included organizations should explicitly state or show that they perform or bundle evaluations or reports on the effectiveness of (reading/ageing) interventions. In addition, these evaluations or reports should be readily available on their websites.</p></list-item><list-item><p>University research groups were not included, as we expect them to publish their work in peer&#x02010;reviewed journals.</p></list-item></list>
+</p></sec></sec><sec id="cl21117-sec-0190"><label>3.2.2</label><title>Searching other resources</title><sec id="cl21117-sec-0200"><label>3.2.2.1</label><title>Other reviews</title><p>The reference list of the systematic reviews on the effectiveness of cognitive leisure activities (C. Stern &#x00026; Munn,&#x000a0;<xref rid="cl21117-bib-0044" ref-type="bibr">2010</xref>) and on the nonliteracy outcomes of recreational reading (The Reading Agency,&#x000a0;<xref rid="cl21117-bib-0047" ref-type="bibr">2015</xref>), as well as those of the systematic reviews identified using the search mentioned above, will be scanned for relevant references.</p></sec><sec id="cl21117-sec-0210"><label>3.2.2.2</label><title>Reference lists</title><p>The reference lists of included references will be searched.</p></sec><sec id="cl21117-sec-0220"><label>3.2.2.3</label><title>Contacting experts</title><p>This review will be conducted in close collaboration with the Social Care Department of Belgian Red Cross. This Department runs a Care Library, a project in which need&#x02010;adapted library materials are provided to hospitals, residential care centres, rehabilitation centres&#x02026; Furthermore, the review team will also receive content support from an external panel of social care experts (Vonk3 research centre of Thomas More University, Expertise centre Dementia Flanders, residential care centres, Public Centre for Social Welfare, Christian health insurance fund). These experts will be contacted to help identify other relevant studies.</p></sec></sec></sec><sec id="cl21117-sec-0230"><label>3.3</label><title>Data collection and analysis</title><sec id="cl21117-sec-0240"><label>3.3.1</label><title>Selection of studies</title><p>Study selection will be performed independently and in parallel by two evidence reviewers (JL and HS) in EndNote. In a first phase, titles and abstracts of the references identified by the search will be screened. Full texts of potentially relevant papers will be retrieved, and references that meet the selection criteria will be included for further analysis. Any relevant retraction statements and errata will be examined. In addition, relevant conference abstracts identified through the above&#x02010;mentioned searches will be included. Studies that meet the selection criteria and had the outcomes of interest measured, but do not report these outcome data, will be included and described in the Results section of the full systematic review.</p><p>Any discrepancies between the two reviewers will be resolved by consensus, and in case of disagreement a third reviewer will be involved (EDB). A PRISMA study selection flow chart will be provided (Moher, Liberati, Tetzlaff, Altman, &#x00026; The PRISMA Group,&#x000a0;<xref rid="cl21117-bib-0030" ref-type="bibr">2009</xref>) and a table of &#x0201c;Characteristics of excluded studies&#x0201d; will be presented in the full systematic review.</p></sec><sec id="cl21117-sec-0250"><label>3.3.2</label><title>Data extraction and management</title><p>Data concerning the year in which the study was reported, the setting, the study design, and the basic characteristics of the study participants, interventions, and outcome measures will be independently extracted by the two reviewers. To ensure consistency in the data collection process, a standardized and piloted data collection form will be used (see Appendix A).</p><p>By documenting all eligible available outcome measures in the Characteristics of included studies table, the two reviewers will be able to assess the potential for multiplicity of outcomes within the same study and handle them appropriately, following the guidance of the Cochrane Handbook for Systematic Reviews of Interventions (McKenzie et al.,&#x000a0;<xref rid="cl21117-bib-0029" ref-type="bibr">2019</xref>).</p><p>If multiple methods are used to measure the same outcome within the same study, the reviewers will select the most relevant measures for analysis using the following decision rules:
+<list list-type="bullet"><list-item><p>Outcome measures obtained via validated formal scales are more relevant than those obtained via a single&#x02010;item question or non&#x02010;validated scales;</p></list-item><list-item><p>Preference will be given to the measure used most frequently in the included studies;</p></list-item><list-item><p>Self&#x02010;reported and clinician&#x02010;reported ratings are considered equally important. Therefore, if a study reports both, one self&#x02010;reported and one clinician&#x02010;reported rating will be extracted.</p></list-item></list>
+</p><p>If a single study has measured the same outcome at multiple time points, the reviewers will extract data from one short&#x02010;term time point (&#x02264;1 month after the intervention has ended), one intermediate&#x02010;term time point (&#x0003e;1 and &#x02264;6 months after the intervention has ended) and one long&#x02010;term time point (&#x0003e;6 months after the intervention has ended).</p><p>If a single study only reports a composite measure of two or more of the outcomes of interest, the composite will be extracted and analysed.</p><p>If a study both contains data on overall scale findings, but also on the different dimensions addressed by the scale, only the overall scale results will be extracted.</p><p>During extraction, special attention will be paid to ensure that multiple reports of the same study are not treated as multiple studies. Should a study contain multiple intervention arms, the reviewers will only extract data on the intervention and control groups that are eligible to this review. Should a multiarm study report multiple relevant intervention arms, the findings from the different arms will be reported and analysed separately.</p><p>Experimental and observational studies will be extracted and analysed separately.</p><p>For dichotomous outcomes, the number of events and the number of participants in each (intervention or control) group will be extracted. Odds ratios or risk ratios (both crude and adjusted ratios, if available) will be extracted, along with their 95% confidence intervals (CIs) and <italic toggle="yes">p</italic> values.</p><p>For continuous outcomes that can be assumed normally distributed, we will extract means, standard deviations (or information to estimate standard deviations), and the number of participants in each group. For skewed continuous data, medians, ranges, and <italic toggle="yes">p</italic> values of nonparametric tests will be extracted.</p><p>In case of controlled before and after studies, mean or median change&#x02010;from&#x02010;baseline scores will be extracted, or computed by the reviewers if all necessary data are available. If change scores are not available or cannot be computed, post&#x02010;intervention values will be extracted by the reviewers.</p><p>Any discrepancies between the two reviewers will be resolved through discussion or consulting other review co&#x02010;authors.</p></sec><sec id="cl21117-sec-0260"><label>3.3.3</label><title>Assessment of risk of bias in included studies</title><p>Individual studies will be assessed for risk of bias, independently by the two reviewers. For randomized controlled trials, the Cochrane Risk of Bias tool will be used to identify the methodological quality and potential shortcomings therein (Higgins &#x00026; Green,&#x000a0;<xref rid="cl21117-bib-0020" ref-type="bibr">2011</xref>). Study quality of nonrandomized experimental and observational studies will be assessed using the Risk of Bias In Non&#x02010;randomized Studies&#x02010;of Interventions (ROBINS&#x02010;I) tool (Sterne et al.,&#x000a0;<xref rid="cl21117-bib-0046" ref-type="bibr">2016</xref>).</p><p>Next, the GRADE approach will be used to assess the overall certainty of the evidence included in this review, based on the limitations in study design, imprecision, inconsistency, indirectness, and publication bias (Atkins et al.,&#x000a0;<xref rid="cl21117-bib-0001" ref-type="bibr">2004</xref>; Sch&#x000fc;nemann, Brozek, Guyatt, &#x00026; Oxman,&#x000a0;<xref rid="cl21117-bib-0041" ref-type="bibr">2013</xref>). The certainty of the &#x0201c;body of evidence&#x0201d; will be assigned, ranging from high, moderate, low to very low.</p></sec><sec id="cl21117-sec-0270"><label>3.3.4</label><title>Measures of treatment effect</title><p>Continuous outcomes will be reported as mean differences (MD) or standardized mean differences (SMD; when studies assess the same outcome, but measure it in a variety of ways, e.g., using different scales) with 95% CIs.Dichotomous outcomes will be reported as odds ratios (OR) or risk ratios (RR) with 95% CIs.</p><p>A &#x0201c;Summary of findings&#x0201d; table will be provided in the review, containing a summary of the results of all the included studies.</p></sec><sec id="cl21117-sec-0280"><label>3.3.5</label><title>Unit of analysis issues</title><p>Should we encounter a multi&#x02010;arm study, we will pay caution to ensure that the same group of participants is not included twice in a single meta&#x02010;analysis. In addition, paired data will be analysed appropriately.</p></sec><sec id="cl21117-sec-0290"><label>3.3.6</label><title>Dealing with missing data</title><p>In case of missing data, we will contact the authors at least twice to obtain these data, if correspondence details are available.</p><p>Where possible, we will calculate missing values (e.g., risk ratios, 95% CI and <italic toggle="yes">p</italic> values) from the available data, using the Review Manager 5 software (Higgins, Li, &#x00026; Deeks,&#x000a0;<xref rid="cl21117-bib-0021" ref-type="bibr">2019</xref>; Review Manager, <xref rid="cl21117-bib-0037" ref-type="bibr">2014</xref>). If insufficient data are available to calculate missing values, we will only analyse the available data and describe the results from the studies with missing data narratively.</p><p>In the final review, the issue of the missing data and their potential impact on the findings will be discussed in the Discussion section.</p></sec><sec id="cl21117-sec-0300"><label>3.3.7</label><title>Assessment of heterogeneity</title><p>Forest plots will be inspected to visually investigate overlap in the confidence intervals for the results of the individual studies. The chi&#x02010;squared test will be performed and the I&#x000b2; statistic will be calculated to quantify inconsistency across studies. For the chi&#x02010;squared test, a p&#x02010;value of 0.10 will be used as a threshold for statistical significance. An I&#x000b2; threshold of 60% will be adopted. However, following the guidance of the Cochrane Handbook for Systematic Reviews of Intervention (Deeks, Higgins, &#x00026; Altman,&#x000a0;<xref rid="cl21117-bib-0011" ref-type="bibr">2019</xref>), care will be taken in interpreting the results, should studies be few in number or have small sample sizes.</p></sec><sec id="cl21117-sec-0310"><label>3.3.8</label><title>Assessment of reporting biases</title><p>If 10 or more studies are identified, publication bias will be assessed through visual inspection of funnel plots. If the funnel plot shows asymmetry, a formal statistical Egger test will be performed. If there is evidence of funnel plot asymmetry from a test, we will attempt to distinguish the different possible reasons for this (nonreporting biases, poor methodological quality leading to spuriously inflated effects in smaller studies, true heterogeneity, artefactual, chance) (Page, Higgins, &#x00026; Sterne,&#x000a0;<xref rid="cl21117-bib-0033" ref-type="bibr">2019</xref>).</p></sec><sec id="cl21117-sec-0320"><label>3.3.9</label><title>Data synthesis</title><p>Experimental and observational studies will be analysed separately. Should cluster randomized controlled trials be included, they will be scrutinized and, if necessary, their analyses will be adjusted for clustering. If 2 or more studies are identified that have investigated the effect of the same intervention on the same outcome, and data are sufficiently available, these data will be pooled and random effects meta&#x02010;analyses will be performed due to the expected between&#x02010;study variation, using the Review Manager 5 software. The Mantel&#x02013;Haenszel method and the Inverse&#x02010;Variance method will be used for dichotomous and continuous outcomes, respectively. Meta&#x02010;analysis results will be visually presented in forest plots.</p><p>Change scores and post&#x02010;intervention values will be combined in the same meta&#x02010;analysis using the MD approach, in accordance with the guidance of the Cochrane Handbook for Systematic Reviews of Interventions (Deeks et al.,&#x000a0;<xref rid="cl21117-bib-0011" ref-type="bibr">2019</xref>).</p><p>Should we encounter a combination of dichotomous and continuous data for the same outcome or predictor, we will first try to resolve this issue by collecting missing data from the study authors. If it remains impossible to summarize the results from all the relevant studies in a similar way, we will report and analyse the dichotomous and continuous data separately (Deeks et al.,&#x000a0;<xref rid="cl21117-bib-0011" ref-type="bibr">2019</xref>).</p><p>In case a quantitative synthesis is not possible, study findings will be synthesized alternatively. To this end, we will use one of the acceptable alternative synthesis methods and visual display methods as described in the Cochrane Handbook for Systematic Reviews of Interventions (McKenzie &#x00026; Brennan,&#x000a0;<xref rid="cl21117-bib-0028" ref-type="bibr">2019</xref>).</p></sec><sec id="cl21117-sec-0330"><label>3.3.10</label><title>Subgroup analysis and investigation of heterogeneity</title><p>If substantial statistical heterogeneity is detected, heterogeneity may be explored by conducting subgroup analyses or (if at least 10 studies are included in the meta&#x02010;analysis) by conducting meta&#x02010;regression to guard against potential issues of confounding (Deeks et al.,&#x000a0;<xref rid="cl21117-bib-0011" ref-type="bibr">2019</xref>). Heterogeneity may occur due to:
+<list list-type="simple"><list-item><label>1.</label><p>Type of reading material: there may be a difference between the effects of hard copy book reading, e&#x02010;book reading and audiobook listening. Despite the high similarity in cortical areas recruited for listening and reading comprehension processes (Jobard, Vigneau, Mazoyer, &#x00026; Tzourio&#x02010;Mazoyer,&#x000a0;<xref rid="cl21117-bib-0024" ref-type="bibr">2007</xref>), several brain imaging studies have indicated that both modalities activate specific and distinct brain areas (Buchweitz et al.,&#x000a0;<xref rid="cl21117-bib-0006" ref-type="bibr">2009</xref>; Cohen et al.,&#x000a0;<xref rid="cl21117-bib-0008" ref-type="bibr">2002</xref>).</p></list-item><list-item><label>2.</label><p>Reading frequency and duration: we hypothesize that book reading will have a &#x0201c;dose&#x02010;dependent&#x0201d; effect on cognition and/or emotional well&#x02010;being, that is, that high&#x02010;frequency reading (as categorized by the study authors for example as &#x0201c;frequent book reading&#x0201d;, or at least once or twice per week) and increased reading duration (at least 3.5&#x02009;hr per week) will have more beneficial effects compared to lower&#x02010;frequency reading and shorter reading duration.</p></list-item><list-item><label>3.</label><p>Socioeconomic diversity: book reading may differentially affect people depending on the current and past availability of books, and the reading habits developed during early childhood.</p></list-item><list-item><label>4.</label><p>Lone reading versus reading aloud/being read to in a one&#x02010;on&#x02010;one setting: lone reading may have differential effects compared to reading that occurs in the company of another person.</p></list-item><list-item><label>5.</label><p>Cognition levels at baseline: book reading may have a more pronounced effect on inhibiting cognitive decline in older adults with normal cognition levels at baseline, compared to older adults with mildly impaired cognition.</p></list-item></list>
+</p><p>As direct analysis of more than two subgroups is not possible in the Review Manager 5 software, subgroups will be compared two by two, whether the outcome is continuous or dichotomous. <italic toggle="yes">p</italic> values will appropriately be adjusted for multiple testing.</p><p>Should post hoc subgroup analyses be conducted, we will clearly state in the review that these analyses are post hoc and exploratory in nature.</p><p>If a sufficient number of studies are identified, meta&#x02010;regression will be conducted using the R statistical software package, as this is not possible in the Review Manager 5 software.</p></sec><sec id="cl21117-sec-0340"><label>3.3.11</label><title>Sensitivity analysis</title><p>Sensitivity analyses may be performed with respect to the quality of studies to test the robustness of the meta&#x02010;analysis by assessing whether results are not influenced by the inclusion or exclusion of low&#x02010;quality studies.</p></sec></sec></sec><sec id="cl21117-sec-0360"><title>AUTHOR CONTRIBUTIONS</title><p>J. L. drafted the protocol. All authors reviewed the draft and approved the final version.</p></sec><sec sec-type="COI-statement" id="cl21117-sec-0370"><title>CONFLICT OF INTERESTS</title><p>J. L., H. S., P. V. and E. D. B. are employees of the Belgian Red Cross and have no further interests to declare. One of the activities of the Belgian Red Cross is to run a Care Library, a project in which need&#x02010;adapted library materials are provided to hospitals, residential care centres, rehabilitation centres, etc.</p></sec><sec id="cl21117-sec-0380"><title>SOURCES OF SUPPORT</title><sec id="cl21117-sec-0390"><title>Internal sources</title><p>
+<list list-type="bullet"><list-item><p>Belgian Red Cross, Belgium</p></list-item></list>
+</p><p>This systematic review is funded by the Foundation for Scientific Research of the Belgian Red Cross.</p></sec><sec id="cl21117-sec-0400"><title>External sources</title><p>
+<list list-type="bullet"><list-item><p>No sources of support provided</p></list-item></list>
+</p></sec></sec></body><back><ack id="cl21117-sec-0350"><title>ACKNOWLEDGEMENTS</title><p>This work was made possible through funding from the Foundation for Scientific Research of the Belgian Red Cross.</p></ack><ref-list id="cl21117-bibl-0001" content-type="cited-references"><title>REFERENCES</title><ref id="cl21117-bib-0001"><mixed-citation publication-type="journal" id="cl21117-cit-0001">
+<string-name>
+<surname>Atkins</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Best</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Briss</surname>, <given-names>P. A.</given-names>
+</string-name>, <string-name>
+<surname>Eccles</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Falck&#x02010;Ytter</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Flottorp</surname>, <given-names>S.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Zaza</surname>, <given-names>S.</given-names>
+</string-name>et al. (<year>2004</year>). <article-title>Grading quality of evidence and strength of recommendations</article-title>. <source>British Medical Journal</source>, <volume>328</volume>(<issue>7454</issue>), <fpage>1490</fpage>.<pub-id pub-id-type="pmid">15205295</pub-id>
+</mixed-citation></ref><ref id="cl21117-bib-0002"><mixed-citation publication-type="journal" id="cl21117-cit-0002">
+<string-name>
+<surname>Bassuk</surname>, <given-names>S. S.</given-names>
+</string-name>, <string-name>
+<surname>Wypij</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Berkman</surname>, <given-names>L. F.</given-names>
+</string-name> (<year>2000</year>). <article-title>Cognitive impairment and mortality in the community&#x02010;dwelling elderly</article-title>. <source>American Journal of Epidemiology</source>, <volume>151</volume>(<issue>7</issue>), <fpage>676</fpage>&#x02013;<lpage>88.</lpage>
+<pub-id pub-id-type="pmid">10752795</pub-id>
+</mixed-citation></ref><ref id="cl21117-bib-0003"><mixed-citation publication-type="journal" id="cl21117-cit-0003">
+<string-name>
+<surname>Beck</surname>, <given-names>A. T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Beck</surname>, <given-names>R. W.</given-names>
+</string-name> (<year>1972</year>). <article-title>Screening depressed patients in family practice. A rapid technic</article-title>. <source>Postgraduate Medicine</source>, <volume>52</volume>(<issue>6</issue>), <fpage>81</fpage>&#x02013;<lpage>85</lpage>. <pub-id pub-id-type="doi">10.1080/00325481.1972.11713319</pub-id>
+<pub-id pub-id-type="pmid">4635613</pub-id>
+</mixed-citation></ref><ref id="cl21117-bib-0004"><mixed-citation publication-type="journal" id="cl21117-cit-0004">
+<string-name>
+<surname>Beck</surname>, <given-names>A. T.</given-names>
+</string-name>, <string-name>
+<surname>Ward</surname>, <given-names>C. H.</given-names>
+</string-name>, <string-name>
+<surname>Mendelson</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Mock</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Erbaugh</surname>, <given-names>J.</given-names>
+</string-name> (<year>1961</year>). <article-title>An inventory for measuring depression</article-title>. <source>Archives of General Psychiatry</source>, <volume>4</volume>(<issue>6</issue>), <fpage>561</fpage>&#x02013;<lpage>571</lpage>. <pub-id pub-id-type="doi">10.1001/archpsyc.1961.01710120031004</pub-id>
+<pub-id pub-id-type="pmid">13688369</pub-id>
+</mixed-citation></ref><ref id="cl21117-bib-0005"><mixed-citation publication-type="book" id="cl21117-cit-0005">
+<string-name>
+<surname>Birkerts</surname>, <given-names>S.</given-names>
+</string-name> (<year>1994</year>). <source>The Gutenberg Elegies: The fate of reading in an electronic age</source>. <publisher-loc>Boston, MA</publisher-loc>: <publisher-name>Faber &#x00026; Faber</publisher-name>.</mixed-citation></ref><ref id="cl21117-bib-0006"><mixed-citation publication-type="journal" id="cl21117-cit-0006">
+<string-name>
+<surname>Buchweitz</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Mason</surname>, <given-names>R. A.</given-names>
+</string-name>, <string-name>
+<surname>Tomitch</surname>, <given-names>L. M. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Just</surname>, <given-names>M. A.</given-names>
+</string-name> (<year>2009</year>). <article-title>Brain activation for reading and listening comprehension: An fMRI study of modality effects and individual differences in language comprehension</article-title>. <source>Psychology &#x00026; Neuroscience</source>, <volume>2</volume>(<issue>2</issue>), <fpage>111</fpage>&#x02013;<lpage>123</lpage>.<pub-id pub-id-type="pmid">21526132</pub-id>
+</mixed-citation></ref><ref id="cl21117-bib-0007"><mixed-citation publication-type="journal" id="cl21117-cit-0007">
+<string-name>
+<surname>Clark</surname>, <given-names>L. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Watson</surname>, <given-names>D.</given-names>
+</string-name> (<year>1991</year>). <article-title>Tripartite model of anxiety and depression: Psychometric evidence and taxonomic implications</article-title>. <source>Journal of Abnormal Psychology</source>, <volume>100</volume>(<issue>3</issue>), <fpage>316</fpage>&#x02013;<lpage>336</lpage>. <pub-id pub-id-type="doi">10.1037//0021-843x.100.3.316</pub-id>
+<pub-id pub-id-type="pmid">1918611</pub-id>
+</mixed-citation></ref><ref id="cl21117-bib-0008"><mixed-citation publication-type="journal" id="cl21117-cit-0008">
+<string-name>
+<surname>Cohen</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Leh&#x000e9;ricy</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Chochon</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Lemer</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Rivard</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Dehaene</surname>, <given-names>S.</given-names>
+</string-name> (<year>2002</year>). <article-title>Language specific tuning of visual cortex? Functional properties of the visual word form area</article-title>. <source>Brain</source>, <volume>125</volume>, <fpage>1053</fpage>&#x02013;<lpage>1069</lpage>.</mixed-citation></ref><ref id="cl21117-bib-0009"><mixed-citation publication-type="journal" id="cl21117-cit-0009">
+<string-name>
+<surname>Cunningham</surname>, <given-names>A. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Stanovich</surname>, <given-names>K. E.</given-names>
+</string-name> (<year>1998</year>). <article-title>What reading does for the mind</article-title>. <source>American Educator</source>, <volume>22</volume>(<issue>1&#x02010;2</issue>), <fpage>8</fpage>&#x02013;<lpage>15</lpage>.</mixed-citation></ref><ref id="cl21117-bib-0010"><mixed-citation publication-type="journal" id="cl21117-cit-0010">
+<string-name>
+<surname>Daskalopoulou</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Stubbs</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Kralj</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Koukounari</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Prince</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Prina</surname>, <given-names>A. M.</given-names>
+</string-name> (<year>2017</year>). <article-title>Physical activity and healthy ageing: A systematic review and meta&#x02010;analysis of longitudinal cohort studies</article-title>. <source>Ageing Research Reviews</source>, <volume>38</volume>, <fpage>6</fpage>&#x02013;<lpage>17</lpage>. <pub-id pub-id-type="doi">10.1016/j.arr.2017.06.003</pub-id>
+<pub-id pub-id-type="pmid">28648951</pub-id>
+</mixed-citation></ref><ref id="cl21117-bib-0011"><mixed-citation publication-type="miscellaneous" id="cl21117-cit-0011">
+<person-group person-group-type="editor">
+<string-name>
+<surname>Deeks</surname>, <given-names>J. J.</given-names>
+</string-name>
+</person-group>, <person-group person-group-type="editor">
+<string-name>
+<surname>Higgins</surname>, <given-names>J. P. T.</given-names>
+</string-name>
+</person-group> &#x00026; <person-group person-group-type="editor">
+<string-name>
+<surname>Altman</surname>, <given-names>D. G.</given-names>
+</string-name>
+</person-group> (Eds.). (<year>2019</year>). Chapter 10: Analysing data and undertaking meta&#x02010;analyses. In J. P. T. Higgins, J. Thomas, J. Chandler, M. Cumpston, T. Li, M. J. Page, V. A. Welch (Eds.). <italic toggle="yes">Cochrane handbook for systematic reviews of interventions version 6.0</italic>. Cochrane. Retrieved from <ext-link xlink:href="http://www.training.cochrane.org/handbook" ext-link-type="uri">www.training.cochrane.org/handbook</ext-link>
+</mixed-citation></ref><ref id="cl21117-bib-0012"><mixed-citation publication-type="journal" id="cl21117-cit-0012">
+<string-name>
+<surname>Dehghani</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Boghrati</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Man</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Hoover</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Gimbel</surname>, <given-names>S. I.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Vaswani</surname>, <given-names>A.</given-names>
+</string-name> (<year>2017</year>). <article-title>Decoding the neural representation of story meanings across languages</article-title>. <source>Human Brain Mapping</source>, <volume>38</volume>(<issue>12</issue>), <fpage>6096</fpage>&#x02013;<lpage>6106</lpage>. <pub-id pub-id-type="doi">10.1002/hbm.23814</pub-id>
+<pub-id pub-id-type="pmid">28940969</pub-id>
+</mixed-citation></ref><ref id="cl21117-bib-0013"><mixed-citation publication-type="journal" id="cl21117-cit-0013">
+<string-name>
+<surname>Djikic</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Oatley</surname>, <given-names>K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Moldoveanu</surname>, <given-names>M. C.</given-names>
+</string-name> (<year>2013</year>). <article-title>Reading other minds: Effects of literature on empathy</article-title>. <source>Scientific Study of Literature</source>, <volume>3</volume>(<issue>1</issue>), <fpage>28</fpage>&#x02013;<lpage>47</lpage>. <pub-id pub-id-type="doi">10.1075/ssol.3.1.06dji</pub-id>
+</mixed-citation></ref><ref id="cl21117-bib-0014"><mixed-citation publication-type="book" id="cl21117-cit-0014">
+<string-name>
+<surname>Dupuy</surname>, <given-names>H. J.</given-names>
+</string-name> (<year>1977</year>). <part-title>The general well&#x02010;being schedule</part-title>. In <person-group person-group-type="editor">
+<string-name>
+<given-names>I.</given-names>
+<surname>McDowell</surname>
+</string-name>
+</person-group> &#x00026; <person-group person-group-type="editor">
+<string-name>
+<given-names>C.</given-names>
+<surname>Newell</surname>
+</string-name>
+</person-group> (Eds.), <source>Measuring health: A guide to rating scales and questionnaire</source> (<edition>2nd ed.</edition>, pp. <fpage>206</fpage>&#x02013;<lpage>213</lpage>). <publisher-loc>New York, NY</publisher-loc>: <publisher-name>Oxford University Press</publisher-name>.</mixed-citation></ref><ref id="cl21117-bib-0015"><mixed-citation publication-type="miscellaneous" id="cl21117-cit-0015">
+<collab collab-type="authors">EndNote [Computer program]</collab>
+. (<year>2013</year>). <italic toggle="yes">Version X7</italic>. Toronto: Thomson Reuters.</mixed-citation></ref><ref id="cl21117-bib-0016"><mixed-citation publication-type="journal" id="cl21117-cit-0016">
+<collab collab-type="authors">EuroQol Group</collab>
+. (<year>1990</year>). <article-title>EuroQol&#x02010;&#x02010;A new facility for the measurement of health&#x02010;related quality of life</article-title>. <source>Health Policy</source>, <volume>16</volume>(<issue>3</issue>), <fpage>199</fpage>&#x02013;<lpage>208</lpage>. <pub-id pub-id-type="doi">10.1016/0168-8510(90)90421-9</pub-id>
+<pub-id pub-id-type="pmid">10109801</pub-id>
+</mixed-citation></ref><ref id="cl21117-bib-0017"><mixed-citation publication-type="journal" id="cl21117-cit-0017">
+<string-name>
+<surname>Folstein</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Folstein</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>McHugh</surname>, <given-names>P.</given-names>
+</string-name> (<year>1975</year>). <article-title>&#x0201c;Mini&#x02010;Mental State&#x0201d;: A practical method for grading the cognitive state of patients for the clinician</article-title>. <source>Journal of Psychiatric Research</source>, <volume>12</volume>, <fpage>189</fpage>&#x02013;<lpage>198</lpage>.<pub-id pub-id-type="pmid">1202204</pub-id>
+</mixed-citation></ref><ref id="cl21117-bib-0018"><mixed-citation publication-type="book" id="cl21117-cit-0018">
+<string-name>
+<surname>Folstein</surname>, <given-names>M. F.</given-names>
+</string-name>, <string-name>
+<surname>Folstein</surname>, <given-names>S. E.</given-names>
+</string-name>, <string-name>
+<surname>White</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Messer</surname>, <given-names>M. A.</given-names>
+</string-name> (<year>2010</year>). <source>Mini&#x02010;Mental State Examination</source> (<edition>2nd ed</edition>.). <publisher-loc>Lutz, FL</publisher-loc>: <publisher-name>Psychological Assessment Resources</publisher-name>.</mixed-citation></ref><ref id="cl21117-bib-0019"><mixed-citation publication-type="journal" id="cl21117-cit-0019">
+<string-name>
+<surname>Glass</surname>, <given-names>T. A.</given-names>
+</string-name>, <string-name>
+<surname>Mendes de Leon</surname>, <given-names>C. F.</given-names>
+</string-name>, <string-name>
+<surname>Marottoli</surname>, <given-names>R. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Berkman</surname>, <given-names>L. F.</given-names>
+</string-name> (<year>1999</year>). <article-title>Population based study of social and productive activities as predictors of survival among elderly Americans</article-title>. <source>British Medical Journal</source>, <volume>319</volume>, <fpage>478</fpage>&#x02013;<lpage>483</lpage>. <pub-id pub-id-type="doi">10.1136/bmj.319.7208.478</pub-id>
+<pub-id pub-id-type="pmid">10454399</pub-id>
+</mixed-citation></ref><ref id="cl21117-bib-0020"><mixed-citation publication-type="miscellaneous" id="cl21117-cit-0020">
+<person-group person-group-type="editor">
+<string-name>
+<surname>Higgins</surname>, <given-names>J. P.</given-names>
+</string-name>
+</person-group> &#x00026; <person-group person-group-type="editor">
+<string-name>
+<surname>Green</surname>, <given-names>S.</given-names>
+</string-name>
+</person-group> (Eds.). (<year>2011</year>). <italic toggle="yes">Cochrane handbook for systematic reviews of interventions version 5.1.0</italic>. The CochraneCollaboration. Retrieved from <ext-link xlink:href="http://handbook.cochrane.org" ext-link-type="uri">handbook.cochrane.org</ext-link>
+</mixed-citation></ref><ref id="cl21117-bib-0021"><mixed-citation publication-type="miscellaneous" id="cl21117-cit-0021">
+<string-name>
+<surname>Higgins</surname>, <given-names>J. P. T</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Deeks</surname>, <given-names>J. J.</given-names>
+</string-name> (<year>2019</year>). Chapter 6: Choosing effect measures and computing estimates of effect. In J. P. T. Higgins, J. Thomas, J. Chandler, M. Cumpston, T. Li, M. J. Page, &#x00026; V. A. Welch (Eds). <italic toggle="yes">Cochrane handbook for systematic reviews of interventions version 6.0</italic>. Cochrane. Retrieved from <ext-link xlink:href="http://www.training.cochrane.org/handbook" ext-link-type="uri">www.training.cochrane.org/handbook</ext-link>
+</mixed-citation></ref><ref id="cl21117-bib-0022"><mixed-citation publication-type="journal" id="cl21117-cit-0022">
+<string-name>
+<surname>Hultsch</surname>, <given-names>D. F.</given-names>
+</string-name>, <string-name>
+<surname>Hertzog</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Small</surname>, <given-names>B. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Dixon</surname>, <given-names>R. A.</given-names>
+</string-name> (<year>1999</year>). <article-title>Use it or lose it: Engaged lifestyle as a buffer of cognitive decline in aging?</article-title>
+<source>Psychology and Aging</source>, <volume>14</volume>(<issue>2</issue>), <fpage>245</fpage>&#x02013;<lpage>63.</lpage>
+<pub-id pub-id-type="pmid">10403712</pub-id>
+</mixed-citation></ref><ref id="cl21117-bib-0023"><mixed-citation publication-type="journal" id="cl21117-cit-0023">
+<string-name>
+<surname>Hyde</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Wiggins</surname>, <given-names>R. D.</given-names>
+</string-name>, <string-name>
+<surname>Higgs</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Blane</surname>, <given-names>D. B.</given-names>
+</string-name> (<year>2003</year>). <article-title>A measure of quality of life in early old age: the theory, development and properties of a needs satisfaction model (CASP&#x02010;19)</article-title>. <source>Aging and Mental Health</source>, <volume>7</volume>(<issue>3</issue>), <fpage>186</fpage>&#x02013;<lpage>194</lpage>. <pub-id pub-id-type="doi">10.1080/1360786031000101157</pub-id>
+<pub-id pub-id-type="pmid">12775399</pub-id>
+</mixed-citation></ref><ref id="cl21117-bib-0024"><mixed-citation publication-type="journal" id="cl21117-cit-0024">
+<string-name>
+<surname>Jobard</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Vigneau</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Mazoyer</surname>, <given-names>B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Tzourio&#x02010;Mazoyer</surname>, <given-names>N.</given-names>
+</string-name> (<year>2007</year>). <article-title>Impact of modality and linguistic complexity during reading and listening tasks</article-title>. <source>NeuroImage</source>, <volume>34</volume>, <fpage>784</fpage>&#x02013;<lpage>800</lpage>. <pub-id pub-id-type="doi">10.1016/j.neuroimage.2006.06.067</pub-id>
+<pub-id pub-id-type="pmid">17110132</pub-id>
+</mixed-citation></ref><ref id="cl21117-bib-0025"><mixed-citation publication-type="journal" id="cl21117-cit-0025">
+<string-name>
+<surname>Kelly</surname>, <given-names>M. E.</given-names>
+</string-name>, <string-name>
+<surname>Duff</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Kelly</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>McHugh Power</surname>, <given-names>J. E.</given-names>
+</string-name>, <string-name>
+<surname>Brennan</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lawlor</surname>, <given-names>B. A.</given-names>
+</string-name> (<year>2017</year>). <article-title>The impact of social activities, social networks, social support and social relationships on the cognitive functioning of healthy older adults: A systematic review</article-title>. <source>Systematic Reviews</source>, <volume>6</volume>(<issue>1</issue>), <fpage>259</fpage>. <pub-id pub-id-type="doi">10.1186/s13643-017-0632-2</pub-id>
+<pub-id pub-id-type="pmid">29258596</pub-id>
+</mixed-citation></ref><ref id="cl21117-bib-0026"><mixed-citation publication-type="journal" id="cl21117-cit-0026">
+<string-name>
+<surname>Kidd</surname>, <given-names>D. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Castano</surname>, <given-names>E.</given-names>
+</string-name> (<year>2013</year>). <article-title>Reading literacy fiction improves theory of mind</article-title>. <source>Science</source>, <volume>342</volume>(<issue>6156</issue>), <fpage>377</fpage>&#x02013;<lpage>380</lpage>. <pub-id pub-id-type="doi">10.1126/science.1239918</pub-id>
+<pub-id pub-id-type="pmid">24091705</pub-id>
+</mixed-citation></ref><ref id="cl21117-bib-0027"><mixed-citation publication-type="journal" id="cl21117-cit-0027">
+<string-name>
+<surname>Knopman</surname>, <given-names>D. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Petersen</surname>, <given-names>R. C.</given-names>
+</string-name> (<year>2014</year>). <article-title>Mild Cognitive Impairment and Mild Dementia: A Clinical Perspective</article-title>. <source>Mayo Clinic Proceedings</source>, <volume>89</volume>(<issue>10</issue>), <fpage>1452</fpage>&#x02013;<lpage>1459</lpage>. <pub-id pub-id-type="doi">10.1016/j.mayocp.2014.06.019</pub-id>
+<pub-id pub-id-type="pmid">25282431</pub-id>
+</mixed-citation></ref><ref id="cl21117-bib-0028"><mixed-citation publication-type="miscellaneous" id="cl21117-cit-0028">
+<string-name>
+<surname>McKenzie</surname>, <given-names>J. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Brennan</surname>, <given-names>S. E.</given-names>
+</string-name> (<year>2019</year>). Chapter 12: Synthesizing and presenting findings using other methods. In: Higgins JPT, Thomas J, Chandler J, Cumpston M, Li T, Page MJ, Welch VA, editor(s). <italic toggle="yes">Cochrane handbook for systematic reviews of interventions version 6.0</italic>. Cochrane. Retrieved from <ext-link xlink:href="http://www.training.cochrane.org/handbook" ext-link-type="uri">www.training.cochrane.org/handbook</ext-link>
+</mixed-citation></ref><ref id="cl21117-bib-0029"><mixed-citation publication-type="miscellaneous" id="cl21117-cit-0029">
+<string-name>
+<surname>McKenzie</surname>, <given-names>J. E.</given-names>
+</string-name>, <string-name>
+<surname>Brennan</surname>, <given-names>S. E.</given-names>
+</string-name>, <string-name>
+<surname>Ryan</surname>, <given-names>R. E.</given-names>
+</string-name>, <string-name>
+<surname>Thomson</surname>, <given-names>H. J.</given-names>
+</string-name>, <string-name>
+<surname>Johnston</surname>, <given-names>R. V.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Thomas</surname>, <given-names>J.</given-names>
+</string-name> (<year>2019</year>). Chapter 3: Defining the criteria for including studies and how they will be grouped for the synthesis. In J. P. T. Higgins, J. Thomas, J. Chandler, M. Cumpston, T. Li, M. J. Page, V. A. Welch (Eds.). <italic toggle="yes">Cochrane handbook for systematic reviews of interventions version 6.0</italic>. Cochrane. Retrieved from <ext-link xlink:href="http://www.training.cochrane.org/handbook" ext-link-type="uri">www.training.cochrane.org/handbook</ext-link>
+</mixed-citation></ref><ref id="cl21117-bib-0030"><mixed-citation publication-type="journal" id="cl21117-cit-0030">
+<string-name>
+<surname>Moher</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Liberati</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Tetzlaff</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Altman</surname>, <given-names>D. G.</given-names>
+</string-name>, <collab collab-type="authors">The PRISMA Group</collab>
+. (<year>2009</year>). <article-title>Preferred reporting items for systematic reviews and meta&#x02010;analyses: The PRISMA statement</article-title>. <source>PLOS Medicine</source>, <volume>6</volume>(<issue>7</issue>), <elocation-id>e1000097</elocation-id>. <pub-id pub-id-type="doi">10.1371/journal.pmed1000097</pub-id>
+<pub-id pub-id-type="pmid">19621072</pub-id>
+</mixed-citation></ref><ref id="cl21117-bib-0031"><mixed-citation publication-type="journal" id="cl21117-cit-0031">
+<string-name>
+<surname>Nasreddine</surname>, <given-names>Z. S.</given-names>
+</string-name>, <string-name>
+<surname>Phillips</surname>, <given-names>N. A.</given-names>
+</string-name>, <string-name>
+<surname>B&#x000c3;&#x000a9;dirian</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Charbonneau</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Whitehead</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Collin</surname>, <given-names>I.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Chertkow</surname>, <given-names>H.</given-names>
+</string-name> (<year>2005</year>). <article-title>The Montreal Cognitive Assessment, MoCA: A brief screening tool for mild cognitive impairment</article-title>. <source>Journal of the American Geriatrics Society</source>, <volume>53</volume>(<issue>4</issue>), <fpage>695</fpage>&#x02013;<lpage>699</lpage>. <pub-id pub-id-type="doi">10.1111/j.1532-5415.2005.53221.x</pub-id>
+<pub-id pub-id-type="pmid">15817019</pub-id>
+</mixed-citation></ref><ref id="cl21117-bib-0032"><mixed-citation publication-type="journal" id="cl21117-cit-0032">
+<string-name>
+<surname>Neugarten</surname>, <given-names>B. J.</given-names>
+</string-name>, <string-name>
+<surname>Havighurts</surname>, <given-names>R. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Tobin</surname>, <given-names>S. S.</given-names>
+</string-name> (<year>1961</year>). <article-title>The measurement of life satisfaction</article-title>. <source>Journal of Gerontology</source>, <volume>16</volume>(<issue>2</issue>), <fpage>134</fpage>&#x02013;<lpage>143</lpage>. <pub-id pub-id-type="doi">10.1093/geronj/16.2.134</pub-id>
+<pub-id pub-id-type="pmid">13728508</pub-id>
+</mixed-citation></ref><ref id="cl21117-bib-0033"><mixed-citation publication-type="miscellaneous" id="cl21117-cit-0033">
+<string-name>
+<surname>Page</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name>
+<surname>Higgins</surname>, <given-names>J. P. T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sterne</surname>, <given-names>J. A. C.</given-names>
+</string-name> (<year>2019</year>). Chapter 13: Assessing risk of bias due to missing results in a synthesis. In J. P. T. Higgins, J. Thomas, J. Chandler, M. Cumpston, T. Li, M. J. Page, &#x00026; V. A. Welch (Eds.), <italic toggle="yes">Cochrane handbook for systematic reviews of interventions version 6.0</italic>. Cochrane. Retrieved from <ext-link xlink:href="http://www.training.cochrane.org/handbook" ext-link-type="uri">www.training.cochrane.org/handbook</ext-link>
+</mixed-citation></ref><ref id="cl21117-bib-0034"><mixed-citation publication-type="journal" id="cl21117-cit-0034">
+<string-name>
+<surname>Petersen</surname>, <given-names>R. C.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>G. E.</given-names>
+</string-name>, <string-name>
+<surname>Waring</surname>, <given-names>S. C.</given-names>
+</string-name>, <string-name>
+<surname>Ivnik</surname>, <given-names>R. J.</given-names>
+</string-name>, <string-name>
+<surname>Kokmen</surname>, <given-names>E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Tangelos</surname>, <given-names>E. G.</given-names>
+</string-name> (<year>1997</year>). <article-title>Aging, memory, and mild cognitive impairment</article-title>. <source>International Psychogeriatrics</source>, <volume>9</volume>(<issue>Suppl 1</issue>), <fpage>65</fpage>&#x02013;<lpage>69</lpage>. <pub-id pub-id-type="doi">10.1017/s1041610297004717</pub-id>
+</mixed-citation></ref><ref id="cl21117-bib-0035"><mixed-citation publication-type="journal" id="cl21117-cit-0035">
+<string-name>
+<surname>Prior</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Fenger&#x02010;Gr&#x000f8;n</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kj&#x000e6;r Larsen</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Breinholt Larsen</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Magtengaard Robinson</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Germund Nielsen</surname>, <given-names>M.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Vestergaard</surname>, <given-names>M.</given-names>
+</string-name> (<year>2016</year>). <article-title>The association between perceived stress and mortality among people with multimorbidity: A prospective population&#x02010;based cohort study</article-title>. <source>American Journal of Epidemiology</source>, <volume>184</volume>(<issue>3</issue>), <fpage>199</fpage>&#x02013;<lpage>210</lpage>. <pub-id pub-id-type="doi">10.1093/aje/kwv324</pub-id>
+<pub-id pub-id-type="pmid">27407085</pub-id>
+</mixed-citation></ref><ref id="cl21117-bib-0036"><mixed-citation publication-type="miscellaneous" id="cl21117-cit-0036">
+<string-name>
+<surname>Quick Reads</surname>
+</string-name>, &#x00026; <string-name>
+<surname>Billington</surname>, <given-names>J.</given-names>
+</string-name> (<year>2015</year>). <italic toggle="yes">Reading between the lines: The benefits of reading for pleasure</italic>. Retrieved from <ext-link xlink:href="http://www.letterpressproject.co.uk/the-resource-archive/2015-11-07/reading-between-the-lines-the-benefits-of-reading-for-pleasure" ext-link-type="uri">http://www.letterpressproject.co.uk/the-resource-archive/2015-11-07/reading-between-the-lines-the-benefits-of-reading-for-pleasure</ext-link>
+</mixed-citation></ref><ref id="cl21117-bib-0037"><mixed-citation publication-type="miscellaneous" id="cl21117-cit-0037">
+<collab collab-type="authors">Review Manager</collab>
+. (<year>2014</year>). <italic toggle="yes">5 (RevMan 5) [Computer program]. Version 5.3</italic>. Copenhagen: Nordic Cochrane Centre, The Cochrane Collaboration.</mixed-citation></ref><ref id="cl21117-bib-0038"><mixed-citation publication-type="journal" id="cl21117-cit-0038">
+<string-name>
+<surname>Ryff</surname>, <given-names>C. D.</given-names>
+</string-name> (<year>1989</year>). <article-title>Happiness is everything, or is it? Explorations on the meaning of psychological well&#x02010;being</article-title>. <source>Journal of Personality and Social Psychology</source>, <volume>57</volume>(<issue>6</issue>), <fpage>1069</fpage>&#x02013;<lpage>1081</lpage>. <pub-id pub-id-type="doi">10.1037/0022-3514.57.6.1069</pub-id>
+</mixed-citation></ref><ref id="cl21117-bib-0039"><mixed-citation publication-type="journal" id="cl21117-cit-0039">
+<string-name>
+<surname>Ryff</surname>, <given-names>C. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Keyes</surname>, <given-names>C. L. M.</given-names>
+</string-name> (<year>1995</year>). <article-title>The structure of psychological well&#x02010;being revisited</article-title>. <source>Journal of Personality and Social Psychology</source>, <volume>69</volume>(<issue>4</issue>), <fpage>719</fpage>&#x02013;<lpage>727</lpage>.<pub-id pub-id-type="pmid">7473027</pub-id>
+</mixed-citation></ref><ref id="cl21117-bib-0040"><mixed-citation publication-type="journal" id="cl21117-cit-0040">
+<string-name>
+<surname>Scarmeas</surname>, <given-names>N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Stern</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2003</year>). <article-title>Cognitive reserve and lifestyle</article-title>. <source>Journal of Clinical and Experimental Neuropsychology</source>, <volume>25</volume>(<issue>5</issue>), <fpage>625</fpage>&#x02013;<lpage>33.</lpage>
+<pub-id pub-id-type="pmid">12815500</pub-id>
+</mixed-citation></ref><ref id="cl21117-bib-0041"><mixed-citation publication-type="miscellaneous" id="cl21117-cit-0041">
+<person-group person-group-type="editor">
+<string-name>
+<surname>Sch&#x000fc;nemann</surname>, <given-names>H.</given-names>
+</string-name>
+</person-group>, <person-group person-group-type="editor">
+<string-name>
+<surname>Brozek</surname>, <given-names>J.</given-names>
+</string-name>
+</person-group>, <person-group person-group-type="editor">
+<string-name>
+<surname>Guyatt</surname>, <given-names>G.</given-names>
+</string-name>
+</person-group> &#x00026; <person-group person-group-type="editor">
+<string-name>
+<surname>Oxman</surname>, <given-names>A.</given-names>
+</string-name>
+</person-group> (Eds.). (<year>2013</year>). <italic toggle="yes">GRADE handbook&#x02014;Handbook for grading the quality of evidence and the strength of recommendations using the GRADE approach</italic>. GRADE Working Group. Retrieved from <ext-link xlink:href="https://gdt.gradepro.org/app/handbook/handbook.html" ext-link-type="uri">https://gdt.gradepro.org/app/handbook/handbook.html</ext-link>
+</mixed-citation></ref><ref id="cl21117-bib-0042"><mixed-citation publication-type="journal" id="cl21117-cit-0042">
+<string-name>
+<surname>Shipley</surname>, <given-names>B. A.</given-names>
+</string-name>, <string-name>
+<surname>Der</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Taylor</surname>, <given-names>M. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Deary</surname>, <given-names>I. J.</given-names>
+</string-name> (<year>2008</year>). <article-title>Cognition and mortality from the major causes of death: The Health and Lifestyle Survey</article-title>. <source>Journal of Psychosomatic Research</source>, <volume>65</volume>(<issue>2</issue>), <fpage>143</fpage>&#x02013;<lpage>152</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpsychores.2008.02.017</pub-id>
+<pub-id pub-id-type="pmid">18655859</pub-id>
+</mixed-citation></ref><ref id="cl21117-bib-0043"><mixed-citation publication-type="journal" id="cl21117-cit-0043">
+<string-name>
+<surname>Stanovich</surname>, <given-names>K. E.</given-names>
+</string-name>, <string-name>
+<surname>West</surname>, <given-names>R. F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Harrison</surname>, <given-names>M. R.</given-names>
+</string-name> (<year>1995</year>). <article-title>Knowledge growth and maintenance across the life span: the role of print exposure</article-title>. <source>Developmental Psychology</source>, <volume>31</volume>(<issue>5</issue>), <fpage>811</fpage>&#x02013;<lpage>826</lpage>.</mixed-citation></ref><ref id="cl21117-bib-0044"><mixed-citation publication-type="journal" id="cl21117-cit-0044">
+<string-name>
+<surname>Stern</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Munn</surname>, <given-names>Z.</given-names>
+</string-name> (<year>2010</year>). <article-title>Cognitive leisure activities and their role in preventing dementia: A systematic review</article-title>. <source>International Journal of Evidence&#x02010;Based Healthcare</source>, <volume>8</volume>, <fpage>2</fpage>&#x02013;<lpage>17</lpage>. <pub-id pub-id-type="doi">10.1111/j.1744-1609.2010.00150.x</pub-id>
+<pub-id pub-id-type="pmid">20923507</pub-id>
+</mixed-citation></ref><ref id="cl21117-bib-0045"><mixed-citation publication-type="journal" id="cl21117-cit-0045">
+<string-name>
+<surname>Stern</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2012</year>). <article-title>Cognitive reserve in ageing and Alzheimer's disease</article-title>. <source>Lancet Neurology</source>, <volume>11</volume>(<issue>11</issue>), <fpage>1006</fpage>&#x02013;<lpage>12</lpage>. <pub-id pub-id-type="doi">10.1016/S1474-4422(12)70191-6</pub-id>
+<pub-id pub-id-type="pmid">23079557</pub-id>
+</mixed-citation></ref><ref id="cl21117-bib-0046"><mixed-citation publication-type="journal" id="cl21117-cit-0046">
+<string-name>
+<surname>Sterne</surname>, <given-names>J. A. C.</given-names>
+</string-name>, <string-name>
+<surname>Hern&#x000e1;n</surname>, <given-names>M. A.</given-names>
+</string-name>, <string-name>
+<surname>Reeves</surname>, <given-names>B. C.</given-names>
+</string-name>, <string-name>
+<surname>Savovi&#x00107;</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Berkman</surname>, <given-names>N. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Viswanathan</surname>, <given-names>M.</given-names>
+</string-name> (<year>2016</year>). <article-title>ROBINS&#x02010;I: A tool for assessing risk of bias in non&#x02010;randomized studies of interventions</article-title>. <source>BMJ</source>, <volume>355</volume>, <fpage>i4919</fpage>. <pub-id pub-id-type="doi">10.1136/bmj.i4919</pub-id>
+<pub-id pub-id-type="pmid">27733354</pub-id>
+</mixed-citation></ref><ref id="cl21117-bib-0047"><mixed-citation publication-type="miscellaneous" id="cl21117-cit-0047">
+<collab collab-type="authors">The Reading Agency</collab>
+(<year>2015</year>). <italic toggle="yes">Literature review: The impact of reading for pleasure and empowerment</italic>. Retrieved from <ext-link xlink:href="https://readingagency.org.uk/resources/2277/" ext-link-type="uri">https://readingagency.org.uk/resources/2277/</ext-link>
+</mixed-citation></ref><ref id="cl21117-bib-0048"><mixed-citation publication-type="miscellaneous" id="cl21117-cit-0048">
+<collab collab-type="authors">United Nations, Department of Economic and Social Affairs, &#x00026; Population Division.</collab>
+(<year>2015</year>). World population ageing. Retrieved from <ext-link xlink:href="https://www.un.org/en/development/desa/population/publications/pdf/ageing/WPA2015_Report.pdf" ext-link-type="uri">https://www.un.org/en/development/desa/population/publications/pdf/ageing/WPA2015_Report.pdf</ext-link>
+</mixed-citation></ref><ref id="cl21117-bib-0049"><mixed-citation publication-type="book" id="cl21117-cit-0049">
+<string-name>
+<surname>Willems</surname>, <given-names>R. M.</given-names>
+</string-name> (<year>2015</year>). <source>Cognitive neuroscience of naturalistic language use</source>. <publisher-loc>Cambridge</publisher-loc>: <publisher-name>Cambridge University Press</publisher-name>.</mixed-citation></ref></ref-list><app-group><app id="cl21117-app-0001" content-type="APPENDIX"><label>APPENDIX A</label><title>DATA COLLECTION FORM</title><p>
+<table-wrap position="anchor" id="MPSDISP_1"><table frame="below" rules="groups"><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><tbody valign="top"><tr><td colspan="5" valign="top" rowspan="1">
+<bold>Characteristics of included studies</bold>
+</td></tr><tr style="border-bottom:solid 1px #000000"><td valign="top" rowspan="1" colspan="1">Author, year, country</td><td valign="top" rowspan="1" colspan="1">Study design</td><td valign="top" rowspan="1" colspan="1">Population</td><td valign="top" rowspan="1" colspan="1">Comparison</td><td valign="top" rowspan="1" colspan="1">Remarks</td></tr><tr><td colspan="5" valign="top" rowspan="1">
+<bold>Synthesis of findings</bold>
+</td></tr><tr><td valign="top" rowspan="1" colspan="1">Outcome</td><td valign="top" rowspan="1" colspan="1">Comparison</td><td valign="top" rowspan="1" colspan="1">Effect size</td><td valign="top" rowspan="1" colspan="1"># studies, # participants</td><td valign="top" rowspan="1" colspan="1">Reference</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></table-wrap>
+</p></app></app-group></back></article>

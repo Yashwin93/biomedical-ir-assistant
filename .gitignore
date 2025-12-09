@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Large raw dataset excluded due to GitHub limits
+data/xml/PMC012*
+
+# OS/editor files
+.DS_Store
+.vscode/
+

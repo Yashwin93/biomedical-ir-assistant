@@ -1,0 +1,486 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="cl21129" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Campbell Syst Rev</journal-id><journal-id journal-id-type="iso-abbrev">Campbell Syst Rev</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1891-1803</journal-id><journal-id journal-id-type="publisher-id">CL2</journal-id><journal-title-group><journal-title>Campbell Systematic Reviews</journal-title></journal-title-group><issn pub-type="epub">1891-1803</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">37016615</article-id><article-id pub-id-type="pmc">PMC8356330</article-id>
+<article-id pub-id-type="doi">10.1002/cl2.1129</article-id><article-id pub-id-type="publisher-id">CL21129</article-id><article-categories><subj-group subj-group-type="overline"><subject>Methods Research Papers</subject></subj-group><subj-group subj-group-type="heading"><subject>Methods Research Papers</subject><subj-group subj-group-type="heading"><subject>Methods</subject></subj-group></subj-group></article-categories><title-group><article-title>On the use of computer&#x02010;assistance to facilitate systematic mapping</article-title><alt-title alt-title-type="left-running-head">HADDAWAY <sc>et al.</sc>
+</alt-title></title-group><contrib-group><contrib id="cl21129-cr-0001" contrib-type="author" corresp="yes"><name><surname>Haddaway</surname><given-names>Neal R.</given-names></name><xref rid="cl21129-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="cl21129-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="cl21129-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><address><email>neal_haddaway@hotmail.com</email><email>neal.haddaway@sei.org</email></address></contrib><contrib id="cl21129-cr-0002" contrib-type="author"><name><surname>Callaghan</surname><given-names>Max W.</given-names></name><xref rid="cl21129-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="cl21129-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="cl21129-cr-0003" contrib-type="author"><name><surname>Collins</surname><given-names>Alexandra M.</given-names></name><xref rid="cl21129-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="cl21129-cr-0004" contrib-type="author"><name><surname>Lamb</surname><given-names>William F.</given-names></name><xref rid="cl21129-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cl21129-cr-0005" contrib-type="author"><name><surname>Minx</surname><given-names>Jan C.</given-names></name><xref rid="cl21129-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="cl21129-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="cl21129-cr-0006" contrib-type="author"><name><surname>Thomas</surname><given-names>James</given-names></name><xref rid="cl21129-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="cl21129-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="cl21129-cr-0007" contrib-type="author"><name><surname>John</surname><given-names>Denny</given-names></name><xref rid="cl21129-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib></contrib-group><aff id="cl21129-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<institution>Mercator Research Institute on Climate Change and Global Commons</institution>
+<city>Berlin</city>
+<country country="DE">Germany</country>
+</aff><aff id="cl21129-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>Stockholm Environment Institute</institution>
+<city>Stockholm</city>
+<country country="SE">Sweden</country>
+</aff><aff id="cl21129-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Africa Centre for Evidence</named-content>
+<institution>University of Johannesburg</institution>
+<city>Johannesburg</city>
+<country country="ZA">South Africa</country>
+</aff><aff id="cl21129-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Priestly International Centre for Climate</named-content>
+<institution>University of Leeds</institution>
+<city>Leeds</city>
+<country country="GB">UK</country>
+</aff><aff id="cl21129-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Centre for Environmental Policy</named-content>
+<institution>Imperial College London</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="cl21129-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">EPPI&#x02010;Centre</named-content>
+<institution>UCL Social Research Institute, UCL</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="cl21129-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Amrita Institute of Medical Sciences &#x00026; Research Centre</named-content>
+<institution>Amrita Vishwa Vidyapeetham</institution>
+<city>Kochi</city>
+<named-content content-type="country-part">Kerala</named-content>
+<country country="IN">India</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold> Neal R. Haddaway, Stockholm Environment Institute, Linn&#x000e9;gatan 87D, Stockholm 104 51, Sweden.<break/>
+Email: <email>neal_haddaway@hotmail.com</email> and <email>neal.haddaway@sei.org</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>12</day><month>11</month><year>2020</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2020</year></pub-date><volume>16</volume><issue seq="12">4</issue><issue-id pub-id-type="doi">10.1002/cl2.v16.4</issue-id><elocation-id>e1129</elocation-id><permissions><!--&#x000a9; 2020 Wiley Periodicals LLC--><copyright-statement content-type="article-copyright">&#x000a9; 2020 The Authors. <italic toggle="yes">Campbell Systematic Reviews</italic> published by John Wiley &#x00026; Sons Ltd on behalf of The Campbell Collaboration</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:CL2-16-e1129.pdf"/><abstract><title>Abstract</title><p>The volume of published academic research is growing rapidly and this new era of &#x0201c;big literature&#x0201d; poses new challenges to evidence synthesis, pushing traditional, manual methods of evidence synthesis to their limits. New technology developments, including machine learning, are likely to provide solutions to the problem of information overload and allow scaling of systematic maps to large and even vast literatures. In this paper, we outline how systematic maps lend themselves well to automation and computer&#x02010;assistance. We believe that it is a major priority to consolidate efforts to develop and validate efficient, rigorous and robust applications of these novel technologies, ensuring the challenges of big literature do not prevent the future production of systematic maps.</p></abstract><kwd-group><kwd id="cl21129-kwd-0001">automation</kwd><kwd id="cl21129-kwd-0002">evidence map</kwd><kwd id="cl21129-kwd-0003">evidence synthesis</kwd><kwd id="cl21129-kwd-0004">evidence synthesis technology</kwd><kwd id="cl21129-kwd-0005">machine learning</kwd></kwd-group><counts><fig-count count="4"/><table-count count="0"/><page-count count="9"/><word-count count="5352"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.4 mode:remove_FC converted:30.09.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="cl21129-cit-0035">
+<string-name>
+<surname>Haddaway</surname>
+<given-names>NR</given-names>
+</string-name>, <string-name>
+<surname>Callaghan</surname>
+<given-names>MW</given-names>
+</string-name>, <string-name>
+<surname>Collins</surname>
+<given-names>AM</given-names>
+</string-name>, et al. <article-title>On the use of computer&#x02010;assistance to facilitate systematic mapping</article-title>. <source>Campbell Systematic Reviews</source>. <year>2020</year>;<volume>16</volume>:<elocation-id>e1129</elocation-id>. <pub-id pub-id-type="doi">10.1002/cl2.1129</pub-id>
+<pub-id pub-id-type="pmid">37016615</pub-id>
+</mixed-citation>
+</p></notes></front><body><sec id="cl21129-sec-0010"><label>1</label><title>INTRODUCTION: THE NEED FOR TECHNOLOGY IN EVIDENCE SYNTHESIS</title><p>The volume of published academic research is growing rapidly, and in some topics exponentially (Bornmann &#x00026; Mutz,&#x000a0;<xref rid="cl21129-bib-0001" ref-type="bibr">2015</xref>; Khabsa &#x00026; Giles,&#x000a0;<xref rid="cl21129-bib-0013" ref-type="bibr">2014</xref>). This new era of &#x0201c;big literature&#x0201d; (Callaghan et al.,&#x000a0;<xref rid="cl21129-bib-0003" ref-type="bibr">2020</xref>; Minx et al.,&#x000a0;<xref rid="cl21129-bib-0019" ref-type="bibr">2017</xref>; Nunez&#x02010;Mir et al.,&#x000a0;<xref rid="cl21129-bib-0021" ref-type="bibr">2016</xref>) poses new challenges to evidence synthesis, pushing traditional, manual methods of evidence synthesis (systematic reviews and systematic maps; Gough et al.,&#x000a0;<xref rid="cl21129-bib-0007" ref-type="bibr">2017</xref>) to their limits. At the same time, evidence mapping approaches (systematic maps (James et al.,&#x000a0;<xref rid="cl21129-bib-0011" ref-type="bibr">2016</xref>), evidence and gap maps (Snilstveit et al.,&#x000a0;<xref rid="cl21129-bib-0025" ref-type="bibr">2013</xref>), evidence maps (Saran &#x00026; White,&#x000a0;<xref rid="cl21129-bib-0024" ref-type="bibr">2018</xref>); see Box&#x000a0;<xref rid="cl21129-fea-0001" ref-type="boxed-text">1</xref>) are becoming more popular than full syntheses in some disciplines, such as in environmental science (Figure&#x000a0;<xref rid="cl21129-fig-0001" ref-type="fig">1</xref>). These approaches that aim to catalogue broad evidence bases typically deal with greater volumes of evidence than traditional systematic reviews and are thus even more sensitive to increasing publication rates. This increase in breadth and procedural reduction means that mapping is inherently more scalable, however. To illustrate, the average number of search results in recent environmental systematic maps is more than 34,000 (Haddaway &#x00026; Westgate,&#x000a0;<xref rid="cl21129-bib-0010" ref-type="bibr">2019</xref>). A typical systematic map also requires in excess of 200 person&#x02010;days to complete&#x02014;a significant time and resource investment (Haddaway &#x00026; Westgate,&#x000a0;<xref rid="cl21129-bib-0010" ref-type="bibr">2019</xref>).</p><boxed-text position="float" content-type="Box" id="cl21129-fea-0001"><label>Box 1</label><caption><title>What is systematic mapping?</title></caption><p>
+<italic toggle="yes">Overview</italic>: Systematic mapping is an evidence synthesis method similar to systematic reviewing that aims to summarise an evidence base using robust and rigorous processes. However, systematic mapping differs from systematic reviewing in that it does not aim to summarise the findings of the studies in the evidence base, but rather summarise the evidence base as a whole. While systematic reviews typically focus on answering questions like &#x0201c;what works, when and for whom&#x0201d;, systematic maps aim to answer &#x0201c;what do we know about a topic&#x0201d;, or &#x0201c;what research exists on a particular area&#x0201d;. Systematic maps are often conducted as a first step in the <italic toggle="yes">evidence synthesis pathway</italic>, and would be followed by a number of focused systematic reviews that could be conducted relatively swiftly following the mapping work already undertaken (searching for, screening and describing studies).</p><p>
+<italic toggle="yes">Methods</italic>: Systematic maps follow the same procedures as systematic reviews, but differ at the stage of extraction of information until the synthesis of studies. Systematic maps typically extract only meta&#x02010;data (descriptive information about the studies and their systems) and apply predefined codes: they do not extract findings from the included studies. Systematic maps may include critical appraisal of included study validity, but this step is optional and would be conducted in full in subsequent systematic reviews. Synthesis in systematic maps involves a description of the evidence base and development of an interactive database of studies, and therefore does not include the quantitative or qualitative synthesis of study findings.<boxed-text position="anchor" content-type="graphic"><graphic xlink:href="CL2-16-e1129-g003.jpg" position="anchor" id="jats-graphic-1"/></boxed-text>
+</p><p>
+<italic toggle="yes">Outputs</italic>: The key outputs of a systematic map are: (a) an interactive, searchable database of relevant studies and their descriptive information; (b) a list of knowledge gaps (topics where primary research is limited or absent) and knowledge clusters (topics where sufficient research exists to warrant full synthesis via systematic reviews); (c) visualisations of the evidence base to facilitate understanding (e.g., evidence atlases, heat maps, descriptive plots); (d) a summary report describing the background, methods and results.</p><p>
+<italic toggle="yes">Terminology</italic>: The term &#x0201c;systematic map&#x0201d; is widely used in environmental science and social science. Some fields refer to this method as &#x0201c;evidence maps&#x0201d;, although this is perhaps a broader definition, procedurally. In the field of social welfare, the Campbell Collaboration has developed the term &#x0201c;evidence and gap map&#x0201d; to describe a form of evidence map that focuses on identifying systematic reviews (and often impact evaluations) on a topic, and developing a matrix of interventions and outcomes to visually represent the evidence base. In the field of health, an analogous approach would be described as a &#x0201c;scoping review&#x0201d;, but this term includes a broader set of methods that include reviews conducted to a lower standard than systematic maps (Colquhoun et al.,&#x000a0;<xref rid="cl21129-bib-0006" ref-type="bibr">2014</xref>). Furthermore, the term &#x0201c;scoping review&#x0201d; is used to describe a preliminary, exploratory step prior to the conduct of a full evidence synthesis in many fields (CEE,&#x000a0;<xref rid="cl21129-bib-0004" ref-type="bibr">2013</xref>).</p><p>
+<italic toggle="yes">Example</italic>: In their systematic map of the effects of nature conservation on human wellbeing, McKinnon et al. (<xref rid="cl21129-bib-0017" ref-type="bibr">2016</xref>) retrieved 35,782 search results, resulting in 1,043 relevant records being retained in their final systematic map. The authors produced a series of visualisations including heat maps and an evidence atlas (an interactive geographical map of the evidence base) that described the spread of evidence across regions, conservation actions and measured outcomes (among other variables). They also included a searchable systematic map database describing all included studies as a supplementary file. An interactive, online version of their systematic map can be explored here: <ext-link xlink:href="https://www.natureandpeopleevidence.org/#/explore/wellbeing/charts" ext-link-type="uri">https://www.natureandpeopleevidence.org/#/explore/wellbeing/charts</ext-link>.</p><p>Further guidance and analysis of the uses and benefits of systematic mapping can be found here:</p><p>James, K. L., Randall, N. P. &#x00026; Haddaway, N. R. A methodology for systematic mapping in environmental sciences. <italic toggle="yes">Environmental Evidence</italic>
+<bold>5</bold>, 7 (2016). <ext-link xlink:href="https://doi.org/10.1186/s13750-016-0059-6" ext-link-type="uri">https://doi.org/10.1186/s13750-016-0059-6</ext-link>
+</p><p>Haddaway, N. R., Bernes, C., Jonsson, B. et al. The benefits of systematic mapping to evidence&#x02010;based environmental management. <italic toggle="yes">Ambio</italic>
+<bold>45</bold>, 613&#x02013;620 (2016). <ext-link xlink:href="https://doi.org/10.1007/s13280-016-0773-x" ext-link-type="uri">https://doi.org/10.1007/s13280-016-0773-x</ext-link>
+</p><p>Wolffe, T. A. M., Vidler, J., Halsall, C., Hunt, N., Whaley, P., A survey of systematic evidence mapping practice and the case for knowledge graphs in environmental health and toxicology, <italic toggle="yes">Toxicological Sciences</italic>
+<bold>175</bold>, 35&#x02013;49 (2020). <ext-link xlink:href="https://doi.org/10.1093/toxsci/kfaa025" ext-link-type="uri">https://doi.org/10.1093/toxsci/kfaa025</ext-link>
+</p><p>McKinnon, M. C., Cheng, S. H., Garside, R., Masuda, Y. J., Miller, D. C., Sustainability: Map the evidence. <italic toggle="yes">Nature News</italic>, <bold>528</bold>, 185 (2015). <ext-link xlink:href="https://doi.org/10.1038/528185a" ext-link-type="uri">https://doi.org/10.1038/528185a</ext-link>
+</p><p>Saran, A., White, H., Evidence and gap maps: a comparison of different approaches. <italic toggle="yes">Campbell Systematic Reviews</italic>, <bold>14</bold>, 1&#x02013;38 (2018). <ext-link xlink:href="https://doi.org/10.4073/cmdp.2018.2" ext-link-type="uri">https://doi.org/10.4073/cmdp.2018.2</ext-link>
+</p></boxed-text><fig position="float" fig-type="Figure" id="cl21129-fig-0001"><label>Figure 1</label><caption><p>Comparative growth in systematic maps versus systematic reviews over time in the journal <italic toggle="yes">Environmental Evidence</italic> (as of 10.06.2020)</p></caption><graphic xlink:href="CL2-16-e1129-g004" position="anchor" id="jats-graphic-3"/></fig><p>We focus here on systematic mapping for two reasons (see Box&#x000a0;<xref rid="cl21129-fea-0001" ref-type="boxed-text">1</xref> for a definition). First, mapping approaches are ubiquitous across evidence synthesis methodology, despite not formally being recognised: many systematic reviews also involve an initial mapping stage that identifies, collates and describes the nature of the evidence base. Second, systematic mapping methods focus on the location and description of corpora of literature: methods that lend themselves well to computer assistance and automation. The latter stages of systematic reviews (including data extraction, critical appraisal and synthesis) require in&#x02010;depth analysis of individual manuscripts that is so far proving highly challenging for automation. The approaches described herein could thus be relevant to a range of different evidence synthesis and mapping methods.</p><p>Despite this growing problem, there are signs that new technology developments, including machine learning, are likely to provide solutions to the problem of information overload (Zarocostas,&#x000a0;<xref rid="cl21129-bib-0034" ref-type="bibr">2020</xref>) and allow scaling of evidence syntheses to large and even vast literatures (Callaghan et al.,&#x000a0;<xref rid="cl21129-bib-0003" ref-type="bibr">2020</xref>; Lamb et al.,&#x000a0;<xref rid="cl21129-bib-0014" ref-type="bibr">2019</xref>; Westgate et al.,&#x000a0;<xref rid="cl21129-bib-0032" ref-type="bibr">2018</xref>). First, such technologies may enable reviewers to deal with vast evidence bases far more efficiently and swiftly than humans alone, by bearing the burden of repetitive and routine tasks and allowing manual efforts to be diverted towards more complex tasks. Second, they can identify patterns and content across large sets of documents that would otherwise be inaccessible or incomprehensible to humans, breaking new ground in evidence synthesis and knowledge aggregation. Thirdly, they offer new opportunities for identifying additional relevant literature within given resource constraints, while also potentially enhancing the consistency and accuracy of screening, study selection and coding. Finally, they may help to accelerate the process of conducting systematic maps. Computer&#x02010;assisted reviews thus offer the promise of increased efficiency, scientific insight, comprehensiveness, rigour and speed.</p><p>In this paper, we outline how systematic mapping methods lend themselves well to automation and computer&#x02010;assistance, and highlight evidence synthesis technology as a vital means of dealing with the rapid expansion of evidence across disciplines (so&#x02010;called <italic toggle="yes">infodemics</italic> (Zarocostas,&#x000a0;<xref rid="cl21129-bib-0034" ref-type="bibr">2020</xref>). We argue that a major priority is to consolidate efforts to develop and validate efficient, rigorous and robust applications of these novel technologies. In doing so, we will ensure the challenges of big literature do not prevent the future production of systematic maps.</p></sec><sec id="cl21129-sec-0030"><label>2</label><title>THE BENEFITS OF SYSTEMATIC MAPPING</title><p>Systematic mapping aims to catalogue and describe the evidence base, unlike systematic reviews, which aim to extract and synthesise study findings. Systematic maps are typically used to provide an overview of a broader landscape of research, and as such are useful as a first step on the &#x0201c;evidence synthesis pathway&#x0201d;: the process of moving from broad stakeholder concerns (&#x0201c;what do we know about&#x02026;&#x0201d;) to a series of focused answers to targeted questions about impacts and &#x0201c;what works&#x0201d; (Gough et al.,&#x000a0;<xref rid="cl21129-bib-0007" ref-type="bibr">2017</xref>). Often, the scope of systematic maps more closely aligns to the broad concerns fielded by commissioners and other stakeholders: certain aspects of the key elements of systematic maps (populations, interventions/exposures, comparators, outcomes, methods/study types) are typically included iteratively and are not restricted by prespecified inclusion criteria. Because of this and by design, systematic mapping can be used to catalogue multiple types of evidence in the same map: modelling studies, laboratory studies, field studies, quantitative research, qualitative research, commentaries, theories and methodologies.</p><p>Although they do not synthesise study findings, systematic maps are an important means of highlighting knowledge gaps (subtopics where primary research is lacking), knowledge clusters (subtopics where sufficient studies exist to allow full synthesis via systematic review) and best&#x02010;practices and/or deficiencies in research methods. They can thus help to direct impactful and needs&#x02010;driven research and funding towards primary and secondary gaps in the evidence.</p><p>Systematic maps can be upgraded into full systematic reviews relatively quickly for given knowledge clusters and, in these cases, can be particularly resource efficient. They can thus be used to determine for which subtopics systematic reviews are most appropriate and feasible, reducing the risks of undesirable empty reviews.</p><p>Representativeness is arguably more important than comprehensiveness in systematic maps, since the aim is to identify patterns in gaps and clusters rather than generate precise estimates: as an analogy, a photograph of the Mona Lisa is recognisable at low resolution, but it could not be considered an accurate representation of the underlying information in the painting (Figure&#x000a0;<xref rid="cl21129-fig-0002" ref-type="fig">2</xref>). This reduces the risks of non&#x02010;exhaustive searching in systematic maps: in systematic reviews, there can be severe consequences if even one relevant study is missed, but this is not the case for maps, which summarise broad patterns. Furthermore, there are minimal risks of including a small number of irrelevant studies in a map, since it is broad patterns that are of interest, and further screening and critical appraisal is necessary before proceeding to full synthesis in any subsequent systematic review. This relaxation of the exacting standards traditionally required of systematic reviews makes computer&#x02010;assisted (and perhaps even automated) maps more viable.</p><fig position="float" fig-type="Figure" id="cl21129-fig-0002"><label>Figure 2</label><caption><p>The Mona Lisa and a pixelated version, still easily recognisable. Image Source: <ext-link xlink:href="https://www.newmediacampaigns.com/page/how-to-optimize-an-image-for-your-website" ext-link-type="uri">https://www.newmediacampaigns.com/page/how-to-optimize-an-image-for-your-website</ext-link>
+</p></caption><graphic xlink:href="CL2-16-e1129-g001" position="anchor" id="jats-graphic-5"/></fig></sec><sec id="cl21129-sec-0040"><label>3</label><title>
+<bold>HOW</bold>
+<italic toggle="yes">EVIDENCE SYNTHESIS TECHNOLOGY</italic> CAN SUPPORT SYSTEMATIC MAPPING</title><p>There are many key points in the traditional view of systematic mapping processes where evidence synthesis technology and computational methods could be applied, broadly speaking, project management, retrieval, screening, data extraction and narrative synthesis. We discuss these processes in the following sections.</p><sec id="cl21129-sec-0050"><label>3.1</label><title>The benefits of computer&#x02010;assisted mapping to research, policy and practice</title><p>The computer&#x02010;assisted (or automated) systematic mapping that we describe herein has a suite of benefits to researchers, policymakers and practitioners. More rapid mapping of the evidence will result in faster synthesis in general (including the transition from systematic maps to systematic reviews), by facilitating the identification and analysis of the nature of an evidence base. In turn, this will allow evidence synthesis to be more responsive to the knowledge needs of decision&#x02010;makers. Where decision&#x02010;makers require urgent evidence on a subject, computer&#x02010;assisted mapping can make the provision of a timely <italic toggle="yes">and</italic> systematic map, where previously evidence synthesis would have had to be either timely <italic toggle="yes">or</italic> systematic. In addition, because computer&#x02010;assisted systematic maps can be continually updated to include relevant research as and when it is made available, maps can be kept up to date with the latest evidence.</p></sec><sec id="cl21129-sec-0060"><label>3.2</label><title>Current technologies</title><p>We highlight below some key examples of <italic toggle="yes">evidence synthesis technologies</italic> (defined here as novel tools and frameworks used to support evidence syntheses) that currently exist and can already be used to increase the efficiency, rigour and accessibility of evidence synthesis. We explain these across the main processes of systematic mapping.
+<list list-type="simple"><list-item><label>1.</label><p>
+<bold>Project management</bold>&#x02014;In its broadest form, review management tools are evidence synthesis technologies that suit themselves well to systematic maps, since they support an entire flow of information through the review process, can deal with <italic toggle="yes">big data</italic> review projects, and facilitate good record keeping, which is vital with such large evidence bases.</p></list-item><list-item><label>2.</label><p>
+<bold>Retrieval</bold>&#x02014;Text analysis processes can suggest search terms to support search string development based on computer&#x02010;assisted scoping of the literature (Grames et al.,&#x000a0;<xref rid="cl21129-bib-0008" ref-type="bibr">2019</xref>; Stansfield et al.,&#x000a0;<xref rid="cl21129-bib-0026" ref-type="bibr">2017</xref>). Text analysis processes can be used to retrospectively improve on Boolean search strings to improve search strategies for updates to bibliographic searching. Similarly, text analysis and citation network processes (e.g., Weller et al.,&#x000a0;<xref rid="cl21129-bib-0030" ref-type="bibr">2018</xref>) can be used to suggest additional relevant articles that have been published since searches were conducted to update systematic review searches, ensuring the longevity of the map, which would otherwise become out&#x02010;of&#x02010;date as soon as searches are concluded.</p></list-item><list-item><label>3.</label><p>
+<bold>Screening</bold>&#x02014;Machine learning tools can help to increase efficiency in screening by prioritising relevant research so that eligible studies can be found early on in the screening process and other stages (meta&#x02010;data extraction) can begin sooner (O'Mara&#x02010;Eves et al.,&#x000a0;<xref rid="cl21129-bib-0023" ref-type="bibr">2015</xref>), although traditionally, all records should be screened by at least one human (CEE,&#x000a0;<xref rid="cl21129-bib-0005" ref-type="bibr">2018</xref>). Recent methodological developments have suggested processes of transparently cutting off screening processes at given levels of confidence about the completeness of the process (Callaghan &#x00026; M&#x000fc;ller&#x02010;Hansen,&#x000a0;<xref rid="cl21129-bib-0002" ref-type="bibr">2019</xref>). In addition, named entity recognition can be used to identify terms from a predefined dictionary or taxonomy to support screening: for example, Lamb et al. (<xref rid="cl21129-bib-0014" ref-type="bibr">2019</xref>) used a dictionary of city names to identify case studies from the climate literature.</p></list-item><list-item><label>4.</label><p>
+<bold>Data extraction</bold>&#x02014;Topic modelling and machine learning classifiers can be used to interrogate the body of evidence in order to gain a relatively crude understanding of the content and focus of relevant research (Jaspers et al.,&#x000a0;<xref rid="cl21129-bib-0012" ref-type="bibr">2018</xref>; Stansfield et al.,&#x000a0;<xref rid="cl21129-bib-0027" ref-type="bibr">2013</xref>; Westgate,&#x000a0;<xref rid="cl21129-bib-0031" ref-type="bibr">2019</xref>). Unsupervised machine learning can generate document labels without human input, which can be interpreted by humans and mapped to other document metadata (Lamb et al.,&#x000a0;<xref rid="cl21129-bib-0014" ref-type="bibr">2019</xref>). Supervised learning can be used to rapidly label large collections of documents based on labels given by humans to a subset of documents (Mcauliffe &#x00026; Blei,&#x000a0;<xref rid="cl21129-bib-0016" ref-type="bibr">2008</xref>).</p></list-item><list-item><label>5.</label><p>
+<bold>(Narrative) synthesis</bold>&#x02014;Visualisation of systematic map databases using cartographic/conceptual mapping tools can be used to understand the content and spread of studies of geographical/conceptual space (e.g., Lamb et al.,&#x000a0;<xref rid="cl21129-bib-0014" ref-type="bibr">2019</xref>; van Soest et al.,&#x000a0;<xref rid="cl21129-bib-0028" ref-type="bibr">2019</xref>).</p></list-item></list>
+</p></sec><sec id="cl21129-sec-0070"><label>3.3</label><title>How technology could redefine evidence synthesis methods</title><p>Evidence synthesis methods at present separate the processes of searching and screening to maximise first sensitivity and then specificity, somewhat independently: they gather a large body of potentially relevant evidence by searching for specific terms that must be mentioned, and then narrow this corpus down by manually assessing and extracting explicit and implicit meanings (Figure&#x000a0;<xref rid="cl21129-fig-0003" ref-type="fig">3a</xref>).</p><fig position="float" fig-type="Figure" id="cl21129-fig-0003"><label>Figure 3</label><caption><p>Current and future approaches to document discovery, eligibility screening and cataloguing. (a) The status quo of systematic mapping. (b) A potential future of computer&#x02010;assisted systematic mapping</p></caption><graphic xlink:href="CL2-16-e1129-g002" position="anchor" id="jats-graphic-7"/></fig><p>This approach is necessary, but time consuming and inefficient. It is necessary because, at present, sensitive searches are the only way to ensure all available records are retrieved. It is inefficient because a large volume of information must be read and screened for possible relevant, with the vast majority being discarded (only 8% [<italic toggle="yes">n</italic>&#x02009;=&#x02009;11] of relevant, deduplicated search results were included after title and abstract screening, and only 3% [<italic toggle="yes">n</italic>&#x02009;=&#x02009;17] after full&#x02010;text screening in a recent assessment of systematic reviews and maps (Haddaway &#x00026; Westgate,&#x000a0;<xref rid="cl21129-bib-0010" ref-type="bibr">2019</xref>).</p><p>Evidence synthesis technology could allow us to blend the processes of searching, screening and coding into a single, organic research discovery step by developing algorithms to predict document relevance based on trialled and validated human assessments of relevance, blended with other methods like citation/collaboration network analyses (Figure&#x000a0;<xref rid="cl21129-fig-0003" ref-type="fig">3b</xref>).</p><p>Developing a blended research discovery process in this way, could help to develop curated bodies of evidence where the information generated through the act of reviewing is shared across researchers and project, instead of wasting effort across reviews and having to repeat the work of screening vast numbers of potentially relevant records. The use of automation in cataloguing this evidence makes this more feasible by drastically reducing the efforts needed to screen and classify studies. This iterative process of blended searching and screening, could drastically increase comprehensiveness and efficiency, and reduce research waste.</p><p>In healthcare, technology is being harnessed to automate several steps in the evidence synthesis process, collating, summarising and appraising all randomised control trials (TrialStreamer; <ext-link xlink:href="https://trialstreamer.robotreviewer.net/" ext-link-type="uri">https://trialstreamer.robotreviewer.net/</ext-link>).</p></sec><sec id="cl21129-sec-0080"><label>3.4</label><title>Facilitators to automated systematic mapping</title><p>We describe here what we believe to be some of the key areas that require development to support further computer&#x02010;assistance and full automation of systematic mapping.
+<list list-type="simple"><list-item><label>1.</label><p>
+<bold>Open Discovery</bold>&#x02014;Large, open (i.e., free&#x02010;to&#x02010;access) bibliographic datasets could be developed and curated with supplementary information related to their contents and relation to the rest of the evidence base, for example, across broad conceptual topics such as climate change. Such open datasets would facilitate digestibility by automated processes and sharing of information across reviews that would otherwise be unnecessarily replicated. Bulk downloading should be a priority to reduce reviewer workloads and potential errors. For example, <ext-link xlink:href="http://Lens.org" ext-link-type="uri">Lens.org</ext-link> is a free&#x02010;to&#x02010;use bibliographic database that aggregates across Microsoft Academic, CORE, CrossRef and PubMed, cataloguing &#x0003e;220&#x02009;m academic records. It allows bulk exporting of up to 50,000 records in one go.</p></list-item><list-item><label>2.</label><p>
+<bold>Machine readable, accessible full texts</bold>&#x02014;Text analysis techniques (including machine learning) are mostly based on abstracts, but developing comprehensive corpora of full texts or key portions of full texts (the most likely areas of relevance are objectives, methods, results) would, in some cases, greatly facilitate more comprehensive and robust technology&#x02010;assisted discovery of relevant evidence and analysis of article content.</p></list-item><list-item><label>3.</label><p>
+<bold>Standardised classification frameworks and ontologies</bold>&#x02014;Text analysis methods are more powerful and have broader applicability when combined with established ontologies or classification frameworks for concepts and their synonyms (e.g., how different interventions for treatment of lung pathologies are interrelated and described).</p></list-item><list-item><label>4.</label><p>
+<bold>Data extraction/coding</bold>&#x02014;Automated extraction of meta&#x02010;data from full texts is a key challenge but would speed up a time&#x02010;consuming process and should focus on all aspects of the map's key elements, including study location, population type, intervention type and strength, comparator type, measured outcome, context, study design and methods. Some of this information is easily identified through text analysis (e.g., using dictionary methods; Welbers et al.,&#x000a0;<xref rid="cl21129-bib-0029" ref-type="bibr">2017</xref>), but some may be more challenging to identify and extract, for example, the context, study design and methods.</p></list-item><list-item><label>5.</label><p>
+<bold>Scientometric mapping</bold>&#x02014;The integration of scholarly networks (who works with whom, who cites whom) and systematic mapping to facilitate computer&#x02010;assisted &#x0201c;research weaving&#x0201d; (analysis of the who as well as the what; Nakagawa et al.,&#x000a0;<xref rid="cl21129-bib-0020" ref-type="bibr">2018</xref>) will allow for more efficient and comprehensive discovery of relevant research.</p></list-item><list-item><label>6.</label><p>
+<bold>Off&#x02010;the&#x02010;shelf classifiers</bold>&#x02014;The establishment of public machine learning libraries (classifiers) of broad concepts (e.g., &#x0201c;developing nations&#x0201d;) for use in screening and coding that can be validated will facilitate rapid and comprehensive discovery and analysis of relevant evidence (e.g., Marshall et al.,&#x000a0;<xref rid="cl21129-bib-0015" ref-type="bibr">2018</xref>).</p></list-item><list-item><label>7.</label><p>
+<bold>Integration and validation</bold>&#x02014;The development of linkages with crowd&#x02010;sourcing initiatives (e.g., Cochrane Crowd; <ext-link xlink:href="https://crowd.cochrane.org" ext-link-type="uri">https://crowd.cochrane.org</ext-link>) would facilitate large&#x02010;scale validation of automation technologies, by allowing methodologists to compare the results of computer&#x02010;driven procedures with human&#x02010;driven results.</p></list-item><list-item><label>8.</label><p>
+<bold>More collaborative development</bold>&#x02014;To harness the increasing global attention focused on the use of machine learning and other technologies in text analysis, <italic toggle="yes">evidence synthesis technologists</italic> (those developing tools and frameworks for automation and computer&#x02010;assistance) should work collaboratively to share data and methodological protocols and avoid wasted effort. Organisations like the Evidence Synthesis Hackathon (<ext-link xlink:href="http://www.eshackathon.org" ext-link-type="uri">www.eshackathon.org</ext-link>) and the International Collaboration for the Automation of Systematic Reviews (<ext-link xlink:href="http://icasr.github.io" ext-link-type="uri">icasr.github.io</ext-link>) are paving the way.</p></list-item><list-item><label>9.</label><p>
+<bold>Development of different types of maps</bold>&#x02014;If routine tasks can be highly automated and large literatures are at least crudely machine&#x02010;synthesisable, systematic maps may no longer be limited to narrow research questions. This opens the door to very ambitious mapping efforts, at the scale of disciplines or major topic areas (Callaghan et al.,&#x000a0;<xref rid="cl21129-bib-0003" ref-type="bibr">2020</xref>).</p></list-item></list>
+</p></sec></sec><sec id="cl21129-sec-0090"><label>4</label><title>BARRIERS AND FACILITATORS TO COMPUTER&#x02010;ASSISTED SYSTEMATIC MAPPING</title><p>Such transformations to the way that we conduct evidence syntheses are not without their challenges. We highlight some of the major barriers below and suggest factors that may facilitate the transition to more computer&#x02010;assisted systematic mapping.</p><sec id="cl21129-sec-0100"><label>4.1</label><title>Technical issues</title><p>
+<list list-type="simple"><list-item><label>1.</label><p>
+<bold>Lack of interoperability</bold>&#x02014;At present, tools are rarely interoperable, although there is some standardisation of citation formats. Automated systematic mapping requires that existing and future technologies are interoperable (i.e., use compatible file formats and data standards) to facilitate multiteam tool development and collaboration (and avoid redundancy and development waste).</p></list-item><list-item><label>2.</label><p>
+<bold>Paywalls</bold>&#x02014;Many effective tools with long&#x02010;term support must charge subscription or access fees to ensure their longevity. These paywalls may be restrictive for reviewers working in resource&#x02010;constrained contexts. Waivers for low&#x02010; and middle&#x02010;income country users and institutional subscriptions can help to support wider use, however.</p></list-item><list-item><label>3.</label><p>
+<bold>Lack of open discovery</bold>&#x02014;Automation of systematic mapping requires comprehensive access to large bodies of abstracts and full texts. However, this big data is typically held by publishers and in bibliographic databases that are hidden behind paywalls, or have built&#x02010;in use restrictions that limit the volume and type of data that can be accessed. Some novel platforms and databases, such as Microsoft Academic (<ext-link xlink:href="https://academic.microsoft.com/home" ext-link-type="uri">https://academic.microsoft.com/home</ext-link>), Crossref (<ext-link xlink:href="https://www.crossref.org/" ext-link-type="uri">https://www.crossref.org/</ext-link>), and <ext-link xlink:href="http://Lens.org" ext-link-type="uri">Lens.org</ext-link> (<ext-link xlink:href="https://www.lens.org/" ext-link-type="uri">https://www.lens.org/</ext-link>), do allow large&#x02010;scale access to bibliographic information (so&#x02010;called Open Discovery). Open Access (freely accessible full texts) is increasing but is not yet sufficient for use in automated mapping. Even when researchers do have access to papers, obtaining full texts at scale and in a machine&#x02010;readable format is rarely possible.</p></list-item><list-item><label>4.</label><p>
+<bold>Lack of standardised validation</bold>&#x02014;Many tools require robust and independent validation before they are regarded as being safe to use. However, validation has not yet been standardised and is typically self&#x02010;assessed by those producing evidence synthesis technologies. In order to validate tools, there is a need for &#x0201c;gold standard&#x0201d; datasets from example reviews, which have been scarce to date (O'Connor et al.,&#x000a0;<xref rid="cl21129-bib-0022" ref-type="bibr">2019</xref>).</p></list-item><list-item><label>5.</label><p>
+<bold>Challenge in extracting implied meaning</bold>&#x02014;Coding and extraction of meta&#x02010;data from full texts require a detailed understanding of nuance (i.e., interpretation of implied meaning rather than explicit terminology) that is not yet fully feasible with automation technologies because of the wealth of information in research articles and the nuance and implicit meanings hidden within narrative style documents. For example, the presence of a phrase in an article's methods text does not necessarily mean that method was used; &#x0201c;We chose to use a blocked design because of the challenges associated with randomised control trials&#x0201d;.</p></list-item></list>
+</p></sec><sec id="cl21129-sec-0110"><label>4.2</label><title>Cultural barriers</title><p>
+<list list-type="simple"><list-item><label>1.</label><p>
+<bold>Coding skill barrier</bold>&#x02014;Currently, tool use sometimes requires knowledge of coding or programming ability, for example, many of the packages in the R environment (e.g., litsearchr, Grames et al.,&#x000a0;<xref rid="cl21129-bib-0008" ref-type="bibr">2019</xref>). Graphical user interfaces (GUIs) allow users to interact with tools without requiring programming skills, but typically require substantial resources to create. Tools like Shiny (<ext-link xlink:href="https://www.shinyapps.io/" ext-link-type="uri">https://www.shinyapps.io/</ext-link>) allow standardised GUIs to be produced for R packages with relative ease, reducing necessary resource investment while increasing usability.</p></list-item><list-item><label>2.</label><p>
+<bold>Perception/trust barrier</bold>&#x02014;In general, people do not yet trust machines to replace humans in research tasks (O'Connor et al.,&#x000a0;<xref rid="cl21129-bib-0022" ref-type="bibr">2019</xref>): this may be potential reviewers, editors, peer reviews or readers. However, it should be clear that computer&#x02010;assisted systematic mapping can provide a range of tools to select from and support human reviewers, including tools to conduct laborious, routine tasks. This then provides more time for the interpretative and human&#x02010;driven elements of synthesis.</p></list-item><list-item><label>3.</label><p>
+<bold>&#x0201c;Handing over to computers&#x0201d; barrier</bold>&#x02014;If humans are used for an initial mapping and technology keeps processes up&#x02010;to&#x02010;date, what standards should be in place to ensure consistency and accuracy over time? At what point do we hand over to technology, and what procedures should be in place for verifying that they are still functioning appropriately? These questions must be answered before broad&#x02010;scale automated systematic mapping can be rolled out.</p></list-item></list>
+</p></sec></sec><sec sec-type="conclusions" id="cl21129-sec-0120"><label>5</label><title>CONCLUSIONS</title><p>A wide variety of tools already exist to support computer&#x02010;driven systematic mapping. These tools sit on a spectrum from those intended to facilitate human&#x02010;driven mapping, to those intended to replace humans entirely. However, current technology is not yet sufficient to automate all of the processes involved in rigorous evidence synthesis. Furthermore, rigorous validation is necessary before many of these tools can be trusted for wide&#x02010;scale use by the broad research community.</p><p>We have highlighted some of the main opportunities that already exist, where the key intervention points are in systematic mapping, and what developments in technologies and frameworks are needed to facilitate the increased use of evidence synthesis technology in systematic mapping. We believe that systematic mapping lends itself well to at least partial automation and call for the methodology and tool development community to collaborate to reduce redundancy and increase the efficiency of evidence synthesis technology development and integration.</p></sec></body><back><ref-list content-type="cited-references" id="cl21129-bibl-0001"><title>REFERENCES</title><ref id="cl21129-bib-0001"><mixed-citation publication-type="journal" id="cl21129-cit-0001">
+<string-name>
+<surname>Bornmann</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mutz</surname>, <given-names>R.</given-names>
+</string-name> (<year>2015</year>). <article-title>Growth rates of modern science: A bibliometric analysis based on the number of publications and cited references</article-title>. <source>Journal of the Association for Information Science and Technology</source>, <volume>66</volume>, <fpage>2215</fpage>&#x02013;<lpage>2222</lpage>.</mixed-citation></ref><ref id="cl21129-bib-0002"><mixed-citation publication-type="miscellaneous" id="cl21129-cit-0002">
+<string-name>
+<surname>Callaghan</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>M&#x000fc;ller&#x02010;Hansen</surname>, <given-names>F.</given-names>
+</string-name> (<year>2019</year>). <article-title>Robust statistical stopping criteria for automated screening in systematic reviews</article-title>. <article-title>
+Systematic Reviews
+</article-title>. Retrieved from <ext-link xlink:href="https://www.researchsquare.com/article/rs-8842/v1" ext-link-type="uri">https://www.researchsquare.com/article/rs-8842/v1</ext-link>
+</mixed-citation></ref><ref id="cl21129-bib-0003"><mixed-citation publication-type="journal" id="cl21129-cit-0003">
+<string-name>
+<surname>Callaghan</surname>, <given-names>M. W.</given-names>
+</string-name>, <string-name>
+<surname>Minx</surname>, <given-names>J. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Forster</surname>, <given-names>P. M.</given-names>
+</string-name> (<year>2020</year>). <article-title>A topography of climate change research</article-title>. <source>Nature Climate Change</source>, <volume>10</volume>, <fpage>118</fpage>&#x02013;<lpage>123</lpage>.</mixed-citation></ref><ref id="cl21129-bib-0004"><mixed-citation publication-type="book" id="cl21129-cit-0004">
+<collab collab-type="authors">CEE</collab>
+. (<year>2013</year>). <source>Guidelines for systematic review and evidence synthesis in environmental management</source>. <publisher-loc>UK</publisher-loc>: <publisher-name>The Collaboration for Environmental Evidence, Bangor</publisher-name>.</mixed-citation></ref><ref id="cl21129-bib-0005"><mixed-citation publication-type="miscellaneous" id="cl21129-cit-0005">
+<collab collab-type="authors">CEE</collab>
+. (<year>2018</year>). <article-title>
+The collaboration for environmental evidence synthesis appraisal tool (CEESAT). Version 2
+</article-title>. The Collaboration for Environmental Evidence. Retrieved from <ext-link xlink:href="https://environmentalevidence.shinyapps.io/CEEDER/" ext-link-type="uri">https://environmentalevidence.shinyapps.io/CEEDER/</ext-link>
+</mixed-citation></ref><ref id="cl21129-bib-0006"><mixed-citation publication-type="journal" id="cl21129-cit-0006">
+<string-name>
+<surname>Colquhoun</surname>, <given-names>H. L.</given-names>
+</string-name>, <string-name>
+<surname>Levac</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>O'Brien</surname>, <given-names>K. K.</given-names>
+</string-name>, <string-name>
+<surname>Straus</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Tricco</surname>, <given-names>A. C.</given-names>
+</string-name>, <string-name>
+<surname>Perrier</surname>, <given-names>L.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Moher</surname>, <given-names>D.</given-names>
+</string-name> (<year>2014</year>). <article-title>Scoping reviews: Time for clarity in definition, methods, and reporting</article-title>. <source>Journal of Clinical Epidemiology</source>, <volume>67</volume>, <fpage>1291</fpage>&#x02013;<lpage>1294</lpage>.<pub-id pub-id-type="pmid">25034198</pub-id>
+</mixed-citation></ref><ref id="cl21129-bib-0007"><mixed-citation publication-type="book" id="cl21129-cit-0007">
+<string-name>
+<surname>Gough</surname>, <given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Oliver</surname>, <given-names>S</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Thomas</surname>, <given-names>J.</given-names>
+</string-name> (<year>2017</year>). <source>An introduction to systematic reviews</source>. <publisher-loc>Los Angeles, CA</publisher-loc>: <publisher-name>SAGE</publisher-name>.</mixed-citation></ref><ref id="cl21129-bib-0008"><mixed-citation publication-type="journal" id="cl21129-cit-0008">
+<string-name>
+<surname>Grames</surname>, <given-names>E. M.</given-names>
+</string-name>, <string-name>
+<surname>Stillman</surname>, <given-names>A. N.</given-names>
+</string-name>, <string-name>
+<surname>Tingley</surname>, <given-names>M. W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Elphick</surname>, <given-names>C. S.</given-names>
+</string-name> (<year>2019</year>). <article-title>An automated approach to identifying search terms for systematic reviews using keyword co&#x02010;occurrence networks</article-title>. <source>Methods in Ecology and Evolution</source>, <volume>10</volume>, <fpage>1645</fpage>&#x02013;<lpage>1654</lpage>.</mixed-citation></ref><ref id="cl21129-bib-0009"><mixed-citation publication-type="journal" id="cl21129-cit-0009">
+<string-name>
+<surname>Haddaway</surname>, <given-names>N. R.</given-names>
+</string-name>, <string-name>
+<surname>Bernes</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Jonsson</surname>, <given-names>B. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hedlund</surname>, <given-names>K.</given-names>
+</string-name> (<year>2016</year>). <article-title>The benefits of systematic mapping to evidence&#x02010;based environmental management</article-title>. <source>Ambio</source>, <volume>45</volume>, <fpage>613</fpage>&#x02013;<lpage>620</lpage>. <pub-id pub-id-type="doi">10.1007/s13280-016-0773-x</pub-id>
+<pub-id pub-id-type="pmid">26984257</pub-id>
+</mixed-citation></ref><ref id="cl21129-bib-0010"><mixed-citation publication-type="journal" id="cl21129-cit-0010">
+<string-name>
+<surname>Haddaway</surname>, <given-names>N. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Westgate</surname>, <given-names>M. J.</given-names>
+</string-name> (<year>2019</year>). <article-title>Predicting the time needed for environmental systematic reviews and systematic maps</article-title>. <source>Conservation Biology</source>, <volume>33</volume>, <fpage>434</fpage>&#x02013;<lpage>443</lpage>. <pub-id pub-id-type="doi">10.1111/cobi.13231</pub-id>
+<pub-id pub-id-type="pmid">30285277</pub-id>
+</mixed-citation></ref><ref id="cl21129-bib-0011"><mixed-citation publication-type="journal" id="cl21129-cit-0011">
+<string-name>
+<surname>James</surname>, <given-names>K. L.</given-names>
+</string-name>, <string-name>
+<surname>Randall</surname>, <given-names>N. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Haddaway</surname>, <given-names>N. R.</given-names>
+</string-name> (<year>2016</year>). <article-title>A methodology for systematic mapping in environmental sciences</article-title>. <source>Environmental evidence</source>, <volume>5</volume>, <fpage>7</fpage>. <pub-id pub-id-type="doi">10.1186/s13750-016-0059-6</pub-id>
+</mixed-citation></ref><ref id="cl21129-bib-0012"><mixed-citation publication-type="journal" id="cl21129-cit-0012">
+<string-name>
+<surname>Jaspers</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Troyer</surname>, <given-names>E. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Aerts</surname>, <given-names>M.</given-names>
+</string-name> (<year>2018</year>). <article-title>Machine learning techniques for the automation of literature reviews and systematic reviews in EFSA</article-title>. <source>EFSA Supporting Publications</source>, <volume>15</volume>, <fpage>1427E</fpage>.</mixed-citation></ref><ref id="cl21129-bib-0013"><mixed-citation publication-type="journal" id="cl21129-cit-0013">
+<string-name>
+<surname>Khabsa</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Giles</surname>, <given-names>C. L.</given-names>
+</string-name> (<year>2014</year>). <article-title>The number of scholarly documents on the public web</article-title>. <source>PLOS One</source>, <volume>9</volume>, <fpage>9</fpage>.</mixed-citation></ref><ref id="cl21129-bib-0014"><mixed-citation publication-type="journal" id="cl21129-cit-0014">
+<string-name>
+<surname>Lamb</surname>, <given-names>W. F.</given-names>
+</string-name>, <string-name>
+<surname>Creutzig</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Callaghan</surname>, <given-names>M. W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Minx</surname>, <given-names>J. C.</given-names>
+</string-name> (<year>2019</year>). <article-title>Learning about urban climate solutions from case studies</article-title>. <source>Nature Climate Change</source>, <volume>9</volume>, <fpage>279</fpage>&#x02013;<lpage>287</lpage>.</mixed-citation></ref><ref id="cl21129-bib-0015"><mixed-citation publication-type="journal" id="cl21129-cit-0015">
+<string-name>
+<surname>Marshall</surname>, <given-names>I. J.</given-names>
+</string-name>, <string-name>
+<surname>Noel&#x02010;Storr</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Kuiper</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Thomas</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wallace</surname>, <given-names>B. C.</given-names>
+</string-name> (<year>2018</year>). <article-title>Machine learning for identifying randomized controlled trials: An evaluation and practitioner's guide</article-title>. <source>Research Synthesis Methods</source>, <volume>9</volume>, <fpage>602</fpage>&#x02013;<lpage>614</lpage>.<pub-id pub-id-type="pmid">29314757</pub-id>
+</mixed-citation></ref><ref id="cl21129-bib-0016"><mixed-citation publication-type="book" id="cl21129-cit-0016">
+<string-name>
+<surname>Mcauliffe</surname>, <given-names>JD</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Blei</surname>, <given-names>DM.</given-names>
+</string-name> (<year>2008</year>). <part-title>Supervised topic models</part-title>. In <person-group person-group-type="editor">
+<string-name>
+<given-names>J. C.</given-names>
+<surname>Platt</surname>
+</string-name>
+</person-group>, <person-group person-group-type="editor">
+<string-name>
+<given-names>D.</given-names>
+<surname>Koller</surname>
+</string-name>
+</person-group>, <person-group person-group-type="editor">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Singer</surname>
+</string-name>
+</person-group> &#x00026; <person-group person-group-type="editor">
+<string-name>
+<given-names>S. T.</given-names>
+<surname>Roweis</surname>
+</string-name>
+</person-group> (Eds.), <source>Advances in neural information processing systems 20</source> (pp. <fpage>121</fpage>&#x02013;<lpage>128</lpage>). <publisher-loc>La Jolla, CA</publisher-loc>: <publisher-name>Curran Associates, Inc</publisher-name>. <ext-link xlink:href="http://papers.nips.cc/paper/3328-supervised-topic-models.pdf" ext-link-type="uri">http://papers.nips.cc/paper/3328-supervised-topic-models.pdf</ext-link>
+</mixed-citation></ref><ref id="cl21129-bib-0017"><mixed-citation publication-type="journal" id="cl21129-cit-0017">
+<string-name>
+<surname>McKinnon</surname>, <given-names>M. C.</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>, <given-names>S. H.</given-names>
+</string-name>, <string-name>
+<surname>Dupre</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Edmond</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Garside</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Glew</surname>, <given-names>L.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Woodhouse</surname>, <given-names>E.</given-names>
+</string-name> (<year>2016</year>). <article-title>What are the effects of nature conservation on human well&#x02010;being? A systematic map of empirical evidence from developing countries</article-title>. <source>Environmental Evidence</source>, <volume>5</volume>, <fpage>8</fpage>.</mixed-citation></ref><ref id="cl21129-bib-0018"><mixed-citation publication-type="journal" id="cl21129-cit-0018">
+<string-name>
+<surname>McKinnon</surname>, <given-names>M. C.</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>, <given-names>S. H.</given-names>
+</string-name>, <string-name>
+<surname>Garside</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Masuda</surname>, <given-names>Y. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Miller</surname>, <given-names>D. C.</given-names>
+</string-name> (<year>2015</year>). <article-title>Sustainability: Map the evidence</article-title>. <source>Nature News</source>, <volume>528</volume>, <fpage>185</fpage>&#x02013;<lpage>187</lpage>. <pub-id pub-id-type="doi">10.1038/528185a</pub-id>
+</mixed-citation></ref><ref id="cl21129-bib-0019"><mixed-citation publication-type="journal" id="cl21129-cit-0019">
+<string-name>
+<surname>Minx</surname>, <given-names>J. C.</given-names>
+</string-name>, <string-name>
+<surname>Callaghan</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Lamb</surname>, <given-names>W. F.</given-names>
+</string-name>, <string-name>
+<surname>Garard</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Edenhofer</surname>, <given-names>O.</given-names>
+</string-name> (<year>2017</year>). <article-title>Learning about climate change solutions in the IPCC and beyond</article-title>. <source>Environmental Science &#x00026; Policy</source>, <volume>77</volume>, <fpage>252</fpage>&#x02013;<lpage>259</lpage>.</mixed-citation></ref><ref id="cl21129-bib-0020"><mixed-citation publication-type="journal" id="cl21129-cit-0020">
+<string-name>
+<surname>Nakagawa</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Samarasinghe</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Haddaway</surname>, <given-names>N. R.</given-names>
+</string-name>, <string-name>
+<surname>Westgate</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name>
+<surname>O'Dea</surname>, <given-names>R. E.</given-names>
+</string-name>, <string-name>
+<surname>Noble</surname>, <given-names>D. W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lagisz</surname>, <given-names>M.</given-names>
+</string-name> (<year>2018</year>). <article-title>Research weaving: Visualizing the future of research synthesis</article-title>. <source>Trends in Ecology &#x00026; Evolution</source>, <volume>34</volume>(<issue>3</issue>), <fpage>224</fpage>&#x02013;<lpage>238</lpage>.<pub-id pub-id-type="pmid">30580972</pub-id>
+</mixed-citation></ref><ref id="cl21129-bib-0021"><mixed-citation publication-type="journal" id="cl21129-cit-0021">
+<string-name>
+<surname>Nunez&#x02010;Mir</surname>, <given-names>G. C.</given-names>
+</string-name>, <string-name>
+<surname>Iannone</surname>, <given-names>B. V.</given-names>
+</string-name>, <string-name>
+<surname>Pijanowski</surname>, <given-names>B. C.</given-names>
+</string-name>, <string-name>
+<surname>Kong</surname>, <given-names>N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Fei</surname>, <given-names>S.</given-names>
+</string-name> (<year>2016</year>). <article-title>Automated content analysis: Addressing the big literature challenge in ecology and evolution</article-title>. <source>Methods in Ecology and Evolution</source>, <volume>7</volume>, <fpage>1262</fpage>&#x02013;<lpage>1272</lpage>.</mixed-citation></ref><ref id="cl21129-bib-0022"><mixed-citation publication-type="journal" id="cl21129-cit-0022">
+<string-name>
+<surname>O'Connor</surname>, <given-names>A. M.</given-names>
+</string-name>, <string-name>
+<surname>Tsafnat</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Thomas</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Glasziou</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Gilbert</surname>, <given-names>S. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hutton</surname>, <given-names>B.</given-names>
+</string-name> (<year>2019</year>). <article-title>A question of trust: Can we build an evidence base to gain trust in systematic review automation technologies?</article-title>
+<source>Systematic Reviews</source>, <volume>8</volume>, <fpage>143</fpage>.<pub-id pub-id-type="pmid">31215463</pub-id>
+</mixed-citation></ref><ref id="cl21129-bib-0023"><mixed-citation publication-type="journal" id="cl21129-cit-0023">
+<string-name>
+<surname>O'Mara&#x02010;Eves</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Thomas</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>McNaught</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Miwa</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ananiadou</surname>, <given-names>S.</given-names>
+</string-name> (<year>2015</year>). <article-title>Using text mining for study identification in systematic reviews: A systematic review of current approaches</article-title>. <source>Systematic Reviews</source>, <volume>4</volume>. <ext-link xlink:href="http://systematicreviewsjournal.biomedcentral.com/articles/10.1186/2046-4053-4-5" ext-link-type="uri">http://systematicreviewsjournal.biomedcentral.com/articles/10.1186/2046-4053-4-5</ext-link>
+</mixed-citation></ref><ref id="cl21129-bib-0024"><mixed-citation publication-type="journal" id="cl21129-cit-0024">
+<string-name>
+<surname>Saran</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>White</surname>, <given-names>H.</given-names>
+</string-name> (<year>2018</year>). <article-title>Evidence and gap maps: A comparison of different approaches</article-title>. <source>Campbell Systematic Reviews</source>, <volume>14</volume>, <fpage>1</fpage>&#x02013;<lpage>38</lpage>. <pub-id pub-id-type="doi">10.4073/cmdp.2018.2</pub-id>
+</mixed-citation></ref><ref id="cl21129-bib-0025"><mixed-citation publication-type="miscellaneous" id="cl21129-cit-0025">
+<string-name>
+<surname>Snilstveit</surname>, <given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Vojtkova</surname>, <given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bhavsar</surname>, <given-names>A</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gaarder</surname>, <given-names>M.</given-names>
+</string-name> (<year>2013</year>). <article-title>
+Evidence gap maps&#x02014;A tool for promoting evidence&#x02010;informed policy and prioritizing future research
+</article-title> (WPS6725). The World Bank. pp. <fpage>1</fpage>&#x02013;<lpage>34</lpage>. Retrieved from <ext-link xlink:href="http://documents.worldbank.org/curated/en/212651468163487838/Evidence-gap-maps-a-tool-for-promoting-evidence-informed-policy-and-prioritizing-future-research" ext-link-type="uri">http://documents.worldbank.org/curated/en/212651468163487838/Evidence-gap-maps-a-tool-for-promoting-evidence-informed-policy-and-prioritizing-future-research</ext-link>
+</mixed-citation></ref><ref id="cl21129-bib-0026"><mixed-citation publication-type="journal" id="cl21129-cit-0026">
+<string-name>
+<surname>Stansfield</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>O'Mara&#x02010;Eves</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Thomas</surname>, <given-names>J.</given-names>
+</string-name> (<year>2017</year>). <article-title>Text mining for search term development in systematic reviewing: A discussion of some methods and challenges</article-title>. <source>Research Synthesis Methods</source>, <volume>8</volume>, <fpage>355</fpage>&#x02013;<lpage>365</lpage>.<pub-id pub-id-type="pmid">28660680</pub-id>
+</mixed-citation></ref><ref id="cl21129-bib-0027"><mixed-citation publication-type="journal" id="cl21129-cit-0027">
+<string-name>
+<surname>Stansfield</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Thomas</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kavanagh</surname>, <given-names>J.</given-names>
+</string-name> (<year>2013</year>). <article-title>&#x0201c;Clustering&#x0201d; documents automatically to support scoping reviews of research: A case study</article-title>. <source>Research Synthesis Methods</source>, <volume>4</volume>, <fpage>230</fpage>&#x02013;<lpage>241</lpage>.<pub-id pub-id-type="pmid">26053843</pub-id>
+</mixed-citation></ref><ref id="cl21129-bib-0028"><mixed-citation publication-type="journal" id="cl21129-cit-0028">
+<string-name>
+<surname>van Soest</surname>, <given-names>H. L.</given-names>
+</string-name>, <string-name>
+<surname>van Vuuren</surname>, <given-names>D. P.</given-names>
+</string-name>, <string-name>
+<surname>Hilaire</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Minx</surname>, <given-names>J. C.</given-names>
+</string-name>, <string-name>
+<surname>Harmsen</surname>, <given-names>M. J. H. M.</given-names>
+</string-name>, <string-name>
+<surname>Krey</surname>, <given-names>V.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Luderer</surname>, <given-names>G.</given-names>
+</string-name> (<year>2019</year>). <article-title>Analysing interactions among sustainable development goals with integrated assessment models</article-title>. <source>Global Transitions</source>, <volume>1</volume>, <fpage>210</fpage>&#x02013;<lpage>225</lpage>.</mixed-citation></ref><ref id="cl21129-bib-0029"><mixed-citation publication-type="journal" id="cl21129-cit-0029">
+<string-name>
+<surname>Welbers</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Atteveldt</surname>, <given-names>W. V.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Benoit</surname>, <given-names>K.</given-names>
+</string-name> (<year>2017</year>). <article-title>Text analysis in R</article-title>. <source>Communication Methods and Measures</source>, <volume>11</volume>, <fpage>245</fpage>&#x02013;<lpage>265</lpage>.</mixed-citation></ref><ref id="cl21129-bib-0030"><mixed-citation publication-type="journal" id="cl21129-cit-0030">
+<string-name>
+<surname>Weller</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Jordan</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>DeVries</surname>, <given-names>I.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Rolfe</surname>, <given-names>V.</given-names>
+</string-name> (<year>2018</year>). <article-title>Mapping the open education landscape: Citation network analysis of historical open and distance education research</article-title>. <source>Open Praxis: International Council for Open and Distance Education</source>, <volume>10</volume>, <fpage>109</fpage>&#x02013;<lpage>126</lpage>.</mixed-citation></ref><ref id="cl21129-bib-0031"><mixed-citation publication-type="journal" id="cl21129-cit-0031">
+<string-name>
+<surname>Westgate</surname>, <given-names>M. J.</given-names>
+</string-name> (<year>2019</year>). <article-title>revtools: An R package to support article screening for evidence synthesis</article-title>. <source>Research Synthesis Methods</source>, <volume>10</volume>, <fpage>606</fpage>&#x02013;<lpage>614</lpage>.<pub-id pub-id-type="pmid">31355546</pub-id>
+</mixed-citation></ref><ref id="cl21129-bib-0032"><mixed-citation publication-type="journal" id="cl21129-cit-0032">
+<string-name>
+<surname>Westgate</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name>
+<surname>Haddaway</surname>, <given-names>N. R.</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>, <given-names>S. H.</given-names>
+</string-name>, <string-name>
+<surname>McIntosh</surname>, <given-names>E. J.</given-names>
+</string-name>, <string-name>
+<surname>Marshall</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lindenmayer</surname>, <given-names>D. B.</given-names>
+</string-name> (<year>2018</year>). <article-title>Software support for environmental evidence synthesis</article-title>. <source>Nature Ecology &#x00026; Evolution</source>, <volume>2</volume>, <fpage>588</fpage>&#x02013;<lpage>590</lpage>.<pub-id pub-id-type="pmid">29572524</pub-id>
+</mixed-citation></ref><ref id="cl21129-bib-0033"><mixed-citation publication-type="journal" id="cl21129-cit-0033">
+<string-name>
+<surname>Wolffe</surname>, <given-names>T. A. M.</given-names>
+</string-name>, <string-name>
+<surname>Vidler</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Halsall</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Hunt</surname>, <given-names>N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Whaley</surname>, <given-names>P.</given-names>
+</string-name> (<year>2020</year>). <article-title>A survey of systematic evidence mapping practice and the case for knowledge graphs in environmental health and toxicology</article-title>. <source>Toxicological Sciences</source>, <volume>175</volume>, <fpage>35</fpage>&#x02013;<lpage>49</lpage>. <pub-id pub-id-type="doi">10.1093/toxsci/kfaa025</pub-id>
+<pub-id pub-id-type="pmid">32096866</pub-id>
+</mixed-citation></ref><ref id="cl21129-bib-0034"><mixed-citation publication-type="journal" id="cl21129-cit-0034">
+<string-name>
+<surname>Zarocostas</surname>, <given-names>J.</given-names>
+</string-name> (<year>2020</year>). <part-title>How to fight an infodemic</part-title>, <source>The Lancet</source> (<volume>395</volume>, p. <fpage>676</fpage>).</mixed-citation></ref></ref-list></back></article>
